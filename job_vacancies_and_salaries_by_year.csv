@@ -1,0 +1,96 @@
+Industry,Year,Jobs,Salary
+"Agriculture, forestry and fishing",2016,463.06,6825
+"Agriculture, forestry and fishing",2017,443.472,6962
+"Agriculture, forestry and fishing",2018,461.797,7310
+"Agriculture, forestry and fishing",2019,452.952,7955
+"Agriculture, forestry and fishing",2020,460.479,9163
+Mining,2016,202.184,108240
+Mining,2017,210.07,106087
+Mining,2018,226.56,106243.5
+Mining,2019,238.723,110105.5
+Mining,2020,247.264,114689.5
+Manufacturing,2016,1030.047,45270.5
+Manufacturing,2017,1086.726,43835
+Manufacturing,2018,1079.141,46364
+Manufacturing,2019,1041.605,48646.5
+Manufacturing,2020,1089.256,48130
+"Electricity, gas, water and waste services",2016,133.814,74017
+"Electricity, gas, water and waste services",2017,134.735,78445.5
+"Electricity, gas, water and waste services",2018,140.926,77429
+"Electricity, gas, water and waste services",2019,141.271,80604.5
+"Electricity, gas, water and waste services",2020,149.737,83289
+Construction,2016,1280.829,35459
+Construction,2017,1420.945,34047
+Construction,2018,1448.365,35783.5
+Construction,2019,1433.992,37508
+Construction,2020,1511.806,38414
+Wholesale trade,2016,706.699,43540
+Wholesale trade,2017,715.136,43649
+Wholesale trade,2018,722.4819999999999,45478
+Wholesale trade,2019,707.102,48367
+Wholesale trade,2020,729.3769999999998,47784
+Retail trade,2016,1672.749,18041
+Retail trade,2017,1720.984,17994
+Retail trade,2018,1742.822,18679
+Retail trade,2019,1758.859,20116
+Retail trade,2020,1865.633,19623
+Accommodation and food services,2016,1450.81,7525
+Accommodation and food services,2017,1478.998,7700
+Accommodation and food services,2018,1533.374,8022
+Accommodation and food services,2019,1558.011,8623
+Accommodation and food services,2020,1663.863,8456
+"Transport, postal and warehousing",2016,689.862,40128
+"Transport, postal and warehousing",2017,749.81,34445
+"Transport, postal and warehousing",2018,773.125,35308
+"Transport, postal and warehousing",2019,789.863,34657
+"Transport, postal and warehousing",2020,823.337,34189
+Information media and telecommunications,2016,278.107,37585
+Information media and telecommunications,2017,283.683,37571.5
+Information media and telecommunications,2018,293.031,34098.5
+Information media and telecommunications,2019,275.593,39917
+Information media and telecommunications,2020,283.431,36191
+Finance and insurance services,2016,719.712,40230.5
+Finance and insurance services,2017,729.2569999999998,40347.5
+Finance and insurance services,2018,767.519,41566
+Finance and insurance services,2019,795.557,43801
+Finance and insurance services,2020,829.9869999999999,44386
+"Rental, hiring and real estate services",2016,361.418,25869
+"Rental, hiring and real estate services",2017,386.712,25789
+"Rental, hiring and real estate services",2018,387.941,26682
+"Rental, hiring and real estate services",2019,377.426,29928.5
+"Rental, hiring and real estate services",2020,384.951,30857
+"Professional, scientific and technical services",2016,1385.277,37464
+"Professional, scientific and technical services",2017,1520.329,36268
+"Professional, scientific and technical services",2018,1597.672,38113
+"Professional, scientific and technical services",2019,1585.446,42015
+"Professional, scientific and technical services",2020,1659.922,43238
+Administrative and support services,2016,1641.47,11598
+Administrative and support services,2017,1823.971,12135
+Administrative and support services,2018,1914.458,12786
+Administrative and support services,2019,1902.869,13651
+Administrative and support services,2020,1935.277,13960
+Public administration and safety,2016,1102.885,57770
+Public administration and safety,2017,1054.455,63451
+Public administration and safety,2018,1266.593,60320
+Public administration and safety,2019,1103.81,65547
+Public administration and safety,2020,1118.373,69459
+Education and training,2016,1453.741,30737.5
+Education and training,2017,1490.189,30031
+Education and training,2018,1435.469,28506
+Education and training,2019,1540.755,33512
+Education and training,2020,1530.025,36419
+Health care and social assistance,2016,1993.962,38437
+Health care and social assistance,2017,2162.857,37535
+Health care and social assistance,2018,2309.7,38494
+Health care and social assistance,2019,2268.093,37955
+Health care and social assistance,2020,2656.171,39725
+Arts and recreation services,2016,338.215,8946
+Arts and recreation services,2017,383.824,8228
+Arts and recreation services,2018,408.118,8500
+Arts and recreation services,2019,413.378,9799
+Arts and recreation services,2020,417.257,10871.5
+Other services,2016,616.084,20909
+Other services,2017,680.407,19535
+Other services,2018,715.925,20189.5
+Other services,2019,735.469,21916
+Other services,2020,780.796,23609

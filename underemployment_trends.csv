@@ -1,0 +1,361 @@
+year,agegroup,type,Females,Males,Persons
+2015,15-19 years,Cyclical underemployed full-time,3,20,28
+2015,15-19 years,Cyclical underemployed part-time,198,153,358
+2015,15-19 years,Employed full-time,632,1273,1910
+2015,15-19 years,Employed part-time,3371,2413,5792
+2015,15-19 years,Structural underemployed full-time,85,154,245
+2015,15-19 years,Structural underemployed part-time,1185,881,2068
+2015,20-24 years,Cyclical underemployed full-time,36,94,135
+2015,20-24 years,Cyclical underemployed part-time,154,166,327
+2015,20-24 years,Employed full-time,3588,4952,8546
+2015,20-24 years,Employed part-time,3221,2498,5729
+2015,20-24 years,Structural underemployed full-time,331,714,1051
+2015,20-24 years,Structural underemployed part-time,1146,1001,2153
+2015,25-34 years,Cyclical underemployed full-time,82,267,357
+2015,25-34 years,Cyclical underemployed part-time,204,156,364
+2015,25-34 years,Employed full-time,9841,15991,25836
+2015,25-34 years,Employed part-time,5228,2126,7359
+2015,25-34 years,Structural underemployed full-time,442,1659,2108
+2015,25-34 years,Structural underemployed part-time,1277,895,2179
+2015,35-44 years,Cyclical underemployed full-time,72,254,333
+2015,35-44 years,Cyclical underemployed part-time,219,117,345
+2015,35-44 years,Employed full-time,7357,15234,22597
+2015,35-44 years,Employed part-time,6650,1411,8064
+2015,35-44 years,Structural underemployed full-time,314,1223,1544
+2015,35-44 years,Structural underemployed part-time,1356,556,1921
+2015,45-54 years,Cyclical underemployed full-time,89,280,376
+2015,45-54 years,Cyclical underemployed part-time,247,142,397
+2015,45-54 years,Employed full-time,8330,14144,22482
+2015,45-54 years,Employed part-time,5848,1478,7334
+2015,45-54 years,Structural underemployed full-time,411,1053,1469
+2015,45-54 years,Structural underemployed part-time,1397,578,1983
+2015,55-64 years,Cyclical underemployed full-time,39,209,257
+2015,55-64 years,Cyclical underemployed part-time,195,157,356
+2015,55-64 years,Employed full-time,4627,9181,13813
+2015,55-64 years,Employed part-time,4576,1931,6513
+2015,55-64 years,Structural underemployed full-time,164,539,710
+2015,55-64 years,Structural underemployed part-time,744,496,1245
+2016,15-19 years,Cyclical underemployed full-time,5,23,34
+2016,15-19 years,Cyclical underemployed part-time,196,178,378
+2016,15-19 years,Employed full-time,619,1117,1744
+2016,15-19 years,Employed part-time,3417,2575,5999
+2016,15-19 years,Structural underemployed full-time,60,159,223
+2016,15-19 years,Structural underemployed part-time,1120,886,2012
+2016,20-24 years,Cyclical underemployed full-time,36,115,158
+2016,20-24 years,Cyclical underemployed part-time,172,174,352
+2016,20-24 years,Employed full-time,3590,4769,8364
+2016,20-24 years,Employed part-time,3261,2691,5957
+2016,20-24 years,Structural underemployed full-time,318,660,984
+2016,20-24 years,Structural underemployed part-time,1154,1022,2184
+2016,25-34 years,Cyclical underemployed full-time,83,281,370
+2016,25-34 years,Cyclical underemployed part-time,216,176,397
+2016,25-34 years,Employed full-time,10067,16248,26322
+2016,25-34 years,Employed part-time,5349,2289,7644
+2016,25-34 years,Structural underemployed full-time,504,1733,2246
+2016,25-34 years,Structural underemployed part-time,1373,931,2311
+2016,35-44 years,Cyclical underemployed full-time,86,280,373
+2016,35-44 years,Cyclical underemployed part-time,248,117,369
+2016,35-44 years,Employed full-time,7557,15366,22929
+2016,35-44 years,Employed part-time,6602,1519,8129
+2016,35-44 years,Structural underemployed full-time,331,1251,1591
+2016,35-44 years,Structural underemployed part-time,1376,560,1940
+2016,45-54 years,Cyclical underemployed full-time,94,310,412
+2016,45-54 years,Cyclical underemployed part-time,244,164,415
+2016,45-54 years,Employed full-time,8335,13963,22304
+2016,45-54 years,Employed part-time,6183,1614,7802
+2016,45-54 years,Structural underemployed full-time,373,991,1367
+2016,45-54 years,Structural underemployed part-time,1409,620,2036
+2016,55-64 years,Cyclical underemployed full-time,39,208,253
+2016,55-64 years,Cyclical underemployed part-time,178,178,364
+2016,55-64 years,Employed full-time,4912,9172,14091
+2016,55-64 years,Employed part-time,4740,2000,6747
+2016,55-64 years,Structural underemployed full-time,166,486,656
+2016,55-64 years,Structural underemployed part-time,689,576,1269
+2017,15-19 years,Cyclical underemployed full-time,4,19,29
+2017,15-19 years,Cyclical underemployed part-time,193,178,374
+2017,15-19 years,Employed full-time,588,1185,1782
+2017,15-19 years,Employed part-time,3420,2506,5931
+2017,15-19 years,Structural underemployed full-time,66,158,230
+2017,15-19 years,Structural underemployed part-time,1166,934,2107
+2017,20-24 years,Cyclical underemployed full-time,38,90,137
+2017,20-24 years,Cyclical underemployed part-time,202,166,373
+2017,20-24 years,Employed full-time,3452,4818,8276
+2017,20-24 years,Employed part-time,3476,2728,6210
+2017,20-24 years,Structural underemployed full-time,318,655,977
+2017,20-24 years,Structural underemployed part-time,1252,1023,2280
+2017,25-34 years,Cyclical underemployed full-time,91,267,360
+2017,25-34 years,Cyclical underemployed part-time,217,162,386
+2017,25-34 years,Employed full-time,10341,16271,26617
+2017,25-34 years,Employed part-time,5532,2411,7949
+2017,25-34 years,Structural underemployed full-time,503,1627,2138
+2017,25-34 years,Structural underemployed part-time,1396,952,2354
+2017,35-44 years,Cyclical underemployed full-time,64,254,323
+2017,35-44 years,Cyclical underemployed part-time,231,119,352
+2017,35-44 years,Employed full-time,7888,15461,23356
+2017,35-44 years,Employed part-time,6739,1581,8327
+2017,35-44 years,Structural underemployed full-time,361,1183,1553
+2017,35-44 years,Structural underemployed part-time,1383,612,2002
+2017,45-54 years,Cyclical underemployed full-time,87,262,355
+2017,45-54 years,Cyclical underemployed part-time,245,158,409
+2017,45-54 years,Employed full-time,8475,14195,22675
+2017,45-54 years,Employed part-time,6304,1582,7893
+2017,45-54 years,Structural underemployed full-time,365,946,1317
+2017,45-54 years,Structural underemployed part-time,1422,607,2038
+2017,55-64 years,Cyclical underemployed full-time,44,189,241
+2017,55-64 years,Cyclical underemployed part-time,222,175,403
+2017,55-64 years,Employed full-time,5132,9638,14774
+2017,55-64 years,Employed part-time,4933,1949,6887
+2017,55-64 years,Structural underemployed full-time,184,506,696
+2017,55-64 years,Structural underemployed part-time,801,554,1360
+2018,15-19 years,Cyclical underemployed full-time,8,22,34
+2018,15-19 years,Cyclical underemployed part-time,209,178,391
+2018,15-19 years,Employed full-time,593,1387,1987
+2018,15-19 years,Employed part-time,3595,2546,6147
+2018,15-19 years,Structural underemployed full-time,75,174,254
+2018,15-19 years,Structural underemployed part-time,1202,972,2179
+2018,20-24 years,Cyclical underemployed full-time,38,98,143
+2018,20-24 years,Cyclical underemployed part-time,190,146,343
+2018,20-24 years,Employed full-time,3503,4941,8450
+2018,20-24 years,Employed part-time,3582,2722,6307
+2018,20-24 years,Structural underemployed full-time,297,688,990
+2018,20-24 years,Structural underemployed part-time,1271,991,2266
+2018,25-34 years,Cyclical underemployed full-time,81,274,362
+2018,25-34 years,Cyclical underemployed part-time,219,150,374
+2018,25-34 years,Employed full-time,10561,16455,27022
+2018,25-34 years,Employed part-time,5921,2566,8494
+2018,25-34 years,Structural underemployed full-time,582,1677,2264
+2018,25-34 years,Structural underemployed part-time,1453,942,2402
+2018,35-44 years,Cyclical underemployed full-time,67,251,322
+2018,35-44 years,Cyclical underemployed part-time,215,115,336
+2018,35-44 years,Employed full-time,8273,15809,24086
+2018,35-44 years,Employed part-time,6785,1532,8324
+2018,35-44 years,Structural underemployed full-time,348,1177,1534
+2018,35-44 years,Structural underemployed part-time,1384,540,1928
+2018,45-54 years,Cyclical underemployed full-time,81,262,348
+2018,45-54 years,Cyclical underemployed part-time,232,127,367
+2018,45-54 years,Employed full-time,8775,14328,23110
+2018,45-54 years,Employed part-time,6162,1614,7781
+2018,45-54 years,Structural underemployed full-time,374,880,1261
+2018,45-54 years,Structural underemployed part-time,1420,560,1985
+2018,55-64 years,Cyclical underemployed full-time,53,199,258
+2018,55-64 years,Cyclical underemployed part-time,207,193,407
+2018,55-64 years,Employed full-time,5359,9785,15150
+2018,55-64 years,Employed part-time,4960,2047,7010
+2018,55-64 years,Structural underemployed full-time,171,511,689
+2018,55-64 years,Structural underemployed part-time,758,550,1315
+2019,15-19 years,Cyclical underemployed full-time,4,34,44
+2019,15-19 years,Cyclical underemployed part-time,198,183,385
+2019,15-19 years,Employed full-time,625,1319,1952
+2019,15-19 years,Employed part-time,3487,2621,6114
+2019,15-19 years,Structural underemployed full-time,68,189,263
+2019,15-19 years,Structural underemployed part-time,1162,989,2155
+2019,20-24 years,Cyclical underemployed full-time,36,110,151
+2019,20-24 years,Cyclical underemployed part-time,219,183,414
+2019,20-24 years,Employed full-time,3507,5013,8523
+2019,20-24 years,Employed part-time,3729,2736,6470
+2019,20-24 years,Structural underemployed full-time,311,657,973
+2019,20-24 years,Structural underemployed part-time,1283,959,2247
+2019,25-34 years,Cyclical underemployed full-time,83,319,405
+2019,25-34 years,Cyclical underemployed part-time,228,173,405
+2019,25-34 years,Employed full-time,11019,16652,27677
+2019,25-34 years,Employed part-time,5889,2732,8629
+2019,25-34 years,Structural underemployed full-time,557,1707,2269
+2019,25-34 years,Structural underemployed part-time,1414,1039,2461
+2019,35-44 years,Cyclical underemployed full-time,82,285,375
+2019,35-44 years,Cyclical underemployed part-time,228,108,339
+2019,35-44 years,Employed full-time,8646,16185,24838
+2019,35-44 years,Employed part-time,6849,1509,8363
+2019,35-44 years,Structural underemployed full-time,390,1314,1709
+2019,35-44 years,Structural underemployed part-time,1387,573,1968
+2019,45-54 years,Cyclical underemployed full-time,89,289,386
+2019,45-54 years,Cyclical underemployed part-time,236,144,389
+2019,45-54 years,Employed full-time,8995,14591,23589
+2019,45-54 years,Employed part-time,6236,1602,7841
+2019,45-54 years,Structural underemployed full-time,429,982,1415
+2019,45-54 years,Structural underemployed part-time,1319,545,1870
+2019,55-64 years,Cyclical underemployed full-time,41,223,270
+2019,55-64 years,Cyclical underemployed part-time,205,205,416
+2019,55-64 years,Employed full-time,5570,10071,15650
+2019,55-64 years,Employed part-time,5105,2110,7224
+2019,55-64 years,Structural underemployed full-time,226,578,809
+2019,55-64 years,Structural underemployed part-time,797,576,1381
+2020,15-19 years,Cyclical underemployed full-time,20,47,71
+2020,15-19 years,Cyclical underemployed part-time,325,245,577
+2020,15-19 years,Employed full-time,518,1093,1615
+2020,15-19 years,Employed part-time,3288,2535,5831
+2020,15-19 years,Structural underemployed full-time,55,175,238
+2020,15-19 years,Structural underemployed part-time,1129,948,2081
+2020,20-24 years,Cyclical underemployed full-time,157,227,391
+2020,20-24 years,Cyclical underemployed part-time,390,341,738
+2020,20-24 years,Employed full-time,3308,4485,7800
+2020,20-24 years,Employed part-time,3474,2663,6145
+2020,20-24 years,Structural underemployed full-time,251,572,831
+2020,20-24 years,Structural underemployed part-time,1209,989,2202
+2020,25-34 years,Cyclical underemployed full-time,437,940,1385
+2020,25-34 years,Cyclical underemployed part-time,485,322,813
+2020,25-34 years,Employed full-time,10830,16051,26885
+2020,25-34 years,Employed part-time,5825,2594,8423
+2020,25-34 years,Structural underemployed full-time,594,1796,2398
+2020,25-34 years,Structural underemployed part-time,1487,1083,2577
+2020,35-44 years,Cyclical underemployed full-time,364,874,1242
+2020,35-44 years,Cyclical underemployed part-time,538,207,749
+2020,35-44 years,Employed full-time,8749,16204,24958
+2020,35-44 years,Employed part-time,6882,1603,8492
+2020,35-44 years,Structural underemployed full-time,394,1471,1873
+2020,35-44 years,Structural underemployed part-time,1356,615,1976
+2020,45-54 years,Cyclical underemployed full-time,360,840,1206
+2020,45-54 years,Cyclical underemployed part-time,488,259,753
+2020,45-54 years,Employed full-time,9005,14566,23576
+2020,45-54 years,Employed part-time,5991,1628,7626
+2020,45-54 years,Structural underemployed full-time,436,1117,1561
+2020,45-54 years,Structural underemployed part-time,1323,617,1947
+2020,55-64 years,Cyclical underemployed full-time,250,608,863
+2020,55-64 years,Cyclical underemployed part-time,418,331,756
+2020,55-64 years,Employed full-time,5584,10037,15625
+2020,55-64 years,Employed part-time,5134,2118,7257
+2020,55-64 years,Structural underemployed full-time,239,656,902
+2020,55-64 years,Structural underemployed part-time,939,565,1508
+2021,15-19 years,Cyclical underemployed full-time,16,30,53
+2021,15-19 years,Cyclical underemployed part-time,290,246,543
+2021,15-19 years,Employed full-time,646,1210,1863
+2021,15-19 years,Employed part-time,3644,2719,6368
+2021,15-19 years,Structural underemployed full-time,48,134,187
+2021,15-19 years,Structural underemployed part-time,1044,880,1927
+2021,20-24 years,Cyclical underemployed full-time,82,139,228
+2021,20-24 years,Cyclical underemployed part-time,283,234,523
+2021,20-24 years,Employed full-time,3330,4503,7840
+2021,20-24 years,Employed part-time,3481,2804,6290
+2021,20-24 years,Structural underemployed full-time,243,477,724
+2021,20-24 years,Structural underemployed part-time,1012,914,1932
+2021,25-34 years,Cyclical underemployed full-time,238,528,771
+2021,25-34 years,Cyclical underemployed part-time,326,230,564
+2021,25-34 years,Employed full-time,11055,16081,27144
+2021,25-34 years,Employed part-time,5800,2686,8493
+2021,25-34 years,Structural underemployed full-time,476,1468,1948
+2021,25-34 years,Structural underemployed part-time,1265,982,2253
+2021,35-44 years,Cyclical underemployed full-time,189,482,678
+2021,35-44 years,Cyclical underemployed part-time,333,134,474
+2021,35-44 years,Employed full-time,9324,16734,26065
+2021,35-44 years,Employed part-time,7106,1687,8799
+2021,35-44 years,Structural underemployed full-time,374,1209,1590
+2021,35-44 years,Structural underemployed part-time,1173,542,1723
+2021,45-54 years,Cyclical underemployed full-time,178,446,630
+2021,45-54 years,Cyclical underemployed part-time,291,188,486
+2021,45-54 years,Employed full-time,9449,14658,24116
+2021,45-54 years,Employed part-time,5900,1700,7607
+2021,45-54 years,Structural underemployed full-time,381,940,1329
+2021,45-54 years,Structural underemployed part-time,1121,537,1667
+2021,55-64 years,Cyclical underemployed full-time,117,334,457
+2021,55-64 years,Cyclical underemployed part-time,285,203,493
+2021,55-64 years,Employed full-time,5921,10348,16276
+2021,55-64 years,Employed part-time,5179,2114,7301
+2021,55-64 years,Structural underemployed full-time,188,518,714
+2021,55-64 years,Structural underemployed part-time,698,519,1224
+2022,15-19 years,Cyclical underemployed full-time,7,21,33
+2022,15-19 years,Cyclical underemployed part-time,258,185,448
+2022,15-19 years,Employed full-time,710,1442,2158
+2022,15-19 years,Employed part-time,4250,3140,7397
+2022,15-19 years,Structural underemployed full-time,45,168,218
+2022,15-19 years,Structural underemployed part-time,1108,873,1989
+2022,20-24 years,Cyclical underemployed full-time,32,86,126
+2022,20-24 years,Cyclical underemployed part-time,144,139,288
+2022,20-24 years,Employed full-time,3861,5280,9147
+2022,20-24 years,Employed part-time,3554,2628,6189
+2022,20-24 years,Structural underemployed full-time,279,472,759
+2022,20-24 years,Structural underemployed part-time,918,718,1640
+2022,25-34 years,Cyclical underemployed full-time,98,219,321
+2022,25-34 years,Cyclical underemployed part-time,182,145,332
+2022,25-34 years,Employed full-time,11994,16899,28899
+2022,25-34 years,Employed part-time,5628,2516,8150
+2022,25-34 years,Structural underemployed full-time,526,1375,1909
+2022,25-34 years,Structural underemployed part-time,1037,745,1788
+2022,35-44 years,Cyclical underemployed full-time,83,232,319
+2022,35-44 years,Cyclical underemployed part-time,195,94,297
+2022,35-44 years,Employed full-time,10269,17343,27619
+2022,35-44 years,Employed part-time,7025,1588,8617
+2022,35-44 years,Structural underemployed full-time,445,1134,1584
+2022,35-44 years,Structural underemployed part-time,974,450,1431
+2022,45-54 years,Cyclical underemployed full-time,87,228,323
+2022,45-54 years,Cyclical underemployed part-time,192,135,331
+2022,45-54 years,Employed full-time,9867,14961,24834
+2022,45-54 years,Employed part-time,5979,1613,7595
+2022,45-54 years,Structural underemployed full-time,327,779,1111
+2022,45-54 years,Structural underemployed part-time,903,403,1314
+2022,55-64 years,Cyclical underemployed full-time,60,190,257
+2022,55-64 years,Cyclical underemployed part-time,193,160,357
+2022,55-64 years,Employed full-time,6060,10665,16733
+2022,55-64 years,Employed part-time,5357,2190,7554
+2022,55-64 years,Structural underemployed full-time,171,476,650
+2022,55-64 years,Structural underemployed part-time,542,399,948
+2023,15-19 years,Cyclical underemployed full-time,6,20,31
+2023,15-19 years,Cyclical underemployed part-time,222,209,436
+2023,15-19 years,Employed full-time,783,1538,2325
+2023,15-19 years,Employed part-time,4219,3321,7545
+2023,15-19 years,Structural underemployed full-time,79,166,251
+2023,15-19 years,Structural underemployed part-time,1143,1117,2266
+2023,20-24 years,Cyclical underemployed full-time,34,82,119
+2023,20-24 years,Cyclical underemployed part-time,159,166,329
+2023,20-24 years,Employed full-time,4067,5514,9588
+2023,20-24 years,Employed part-time,3720,2864,6590
+2023,20-24 years,Structural underemployed full-time,281,591,880
+2023,20-24 years,Structural underemployed part-time,960,849,1815
+2023,25-34 years,Cyclical underemployed full-time,101,231,335
+2023,25-34 years,Cyclical underemployed part-time,193,124,322
+2023,25-34 years,Employed full-time,12694,17909,30609
+2023,25-34 years,Employed part-time,5975,2569,8553
+2023,25-34 years,Structural underemployed full-time,588,1454,2049
+2023,25-34 years,Structural underemployed part-time,1110,786,1905
+2023,35-44 years,Cyclical underemployed full-time,80,264,348
+2023,35-44 years,Cyclical underemployed part-time,173,107,285
+2023,35-44 years,Employed full-time,10922,17847,28773
+2023,35-44 years,Employed part-time,7127,1773,8906
+2023,35-44 years,Structural underemployed full-time,430,1229,1663
+2023,35-44 years,Structural underemployed part-time,1069,461,1538
+2023,45-54 years,Cyclical underemployed full-time,82,232,319
+2023,45-54 years,Cyclical underemployed part-time,171,105,282
+2023,45-54 years,Employed full-time,10243,15043,25294
+2023,45-54 years,Employed part-time,5758,1629,7395
+2023,45-54 years,Structural underemployed full-time,363,852,1221
+2023,45-54 years,Structural underemployed part-time,843,381,1229
+2023,55-64 years,Cyclical underemployed full-time,49,197,253
+2023,55-64 years,Cyclical underemployed part-time,194,172,371
+2023,55-64 years,Employed full-time,6263,10606,16875
+2023,55-64 years,Employed part-time,5257,2266,7531
+2023,55-64 years,Structural underemployed full-time,184,460,649
+2023,55-64 years,Structural underemployed part-time,656,367,1028
+2024,15-19 years,Cyclical underemployed full-time,1,12,16
+2024,15-19 years,Cyclical underemployed part-time,109,86,199
+2024,15-19 years,Employed full-time,302,689,994
+2024,15-19 years,Employed part-time,1779,1339,3120
+2024,15-19 years,Structural underemployed full-time,35,67,103
+2024,15-19 years,Structural underemployed part-time,489,411,905
+2024,20-24 years,Cyclical underemployed full-time,18,31,52
+2024,20-24 years,Cyclical underemployed part-time,73,75,150
+2024,20-24 years,Employed full-time,1659,2200,3863
+2024,20-24 years,Employed part-time,1668,1356,3026
+2024,20-24 years,Structural underemployed full-time,120,234,357
+2024,20-24 years,Structural underemployed part-time,437,419,860
+2024,25-34 years,Cyclical underemployed full-time,36,106,145
+2024,25-34 years,Cyclical underemployed part-time,101,51,155
+2024,25-34 years,Employed full-time,5347,7539,12888
+2024,25-34 years,Employed part-time,2646,1184,3833
+2024,25-34 years,Structural underemployed full-time,246,635,883
+2024,25-34 years,Structural underemployed part-time,549,344,896
+2024,35-44 years,Cyclical underemployed full-time,34,110,145
+2024,35-44 years,Cyclical underemployed part-time,80,50,134
+2024,35-44 years,Employed full-time,4613,7562,12178
+2024,35-44 years,Employed part-time,3047,789,3840
+2024,35-44 years,Structural underemployed full-time,180,556,738
+2024,35-44 years,Structural underemployed part-time,478,210,690
+2024,45-54 years,Cyclical underemployed full-time,26,75,103
+2024,45-54 years,Cyclical underemployed part-time,65,39,106
+2024,45-54 years,Employed full-time,4336,6268,10607
+2024,45-54 years,Employed part-time,2339,728,3070
+2024,45-54 years,Structural underemployed full-time,140,337,478
+2024,45-54 years,Structural underemployed part-time,362,166,531
+2024,55-64 years,Cyclical underemployed full-time,29,65,96
+2024,55-64 years,Cyclical underemployed part-time,81,62,146
+2024,55-64 years,Employed full-time,2623,4398,7023
+2024,55-64 years,Employed part-time,2242,985,3230
+2024,55-64 years,Structural underemployed full-time,96,206,305
+2024,55-64 years,Structural underemployed part-time,289,166,455

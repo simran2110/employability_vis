@@ -1,0 +1,1761 @@
+Code,Area,Year,Gender,Type,Values
+101,Capital Region,2016,Males,Jobs,91.5
+101,Capital Region,2017,Males,Jobs,93
+101,Capital Region,2018,Males,Jobs,94
+101,Capital Region,2019,Males,Jobs,94.2
+101,Capital Region,2020,Males,Jobs,98.3
+101,Capital Region,2016,Females,Jobs,87.1
+101,Capital Region,2017,Females,Jobs,87.7
+101,Capital Region,2018,Females,Jobs,91
+101,Capital Region,2019,Females,Jobs,90.4
+101,Capital Region,2020,Females,Jobs,96
+101,Capital Region,2016,Males,Salary,26113
+101,Capital Region,2017,Males,Salary,27267
+101,Capital Region,2018,Males,Salary,28293
+101,Capital Region,2019,Males,Salary,29974
+101,Capital Region,2020,Males,Salary,31261
+101,Capital Region,2016,Females,Salary,19321
+101,Capital Region,2017,Females,Salary,20634
+101,Capital Region,2018,Females,Salary,20641
+101,Capital Region,2019,Females,Salary,23197
+101,Capital Region,2020,Females,Salary,23452
+102,Central Coast,2016,Males,Jobs,123.8
+102,Central Coast,2017,Males,Jobs,125.7
+102,Central Coast,2018,Males,Jobs,126.5
+102,Central Coast,2019,Males,Jobs,124.8
+102,Central Coast,2020,Males,Jobs,129.6
+102,Central Coast,2016,Females,Jobs,118.7
+102,Central Coast,2017,Females,Jobs,121.1
+102,Central Coast,2018,Females,Jobs,124.5
+102,Central Coast,2019,Females,Jobs,122
+102,Central Coast,2020,Females,Jobs,131.2
+102,Central Coast,2016,Males,Salary,33371
+102,Central Coast,2017,Males,Salary,34068
+102,Central Coast,2018,Males,Salary,35665
+102,Central Coast,2019,Males,Salary,37522
+102,Central Coast,2020,Males,Salary,37297
+102,Central Coast,2016,Females,Salary,20974
+102,Central Coast,2017,Females,Salary,22000
+102,Central Coast,2018,Females,Salary,22660
+102,Central Coast,2019,Females,Salary,25550
+102,Central Coast,2020,Females,Salary,25077
+103,Central West,2016,Males,Jobs,83.6
+103,Central West,2017,Males,Jobs,84.3
+103,Central West,2018,Males,Jobs,85.1
+103,Central West,2019,Males,Jobs,83.4
+103,Central West,2020,Males,Jobs,88.5
+103,Central West,2016,Females,Jobs,75.7
+103,Central West,2017,Females,Jobs,76.6
+103,Central West,2018,Females,Jobs,79.1
+103,Central West,2019,Females,Jobs,77.2
+103,Central West,2020,Females,Jobs,84.2
+103,Central West,2016,Males,Salary,25659
+103,Central West,2017,Males,Salary,27222
+103,Central West,2018,Males,Salary,27268
+103,Central West,2019,Males,Salary,30206
+103,Central West,2020,Males,Salary,29802
+103,Central West,2016,Females,Salary,17909
+103,Central West,2017,Females,Salary,18970
+103,Central West,2018,Females,Salary,18750
+103,Central West,2019,Females,Salary,21000
+103,Central West,2020,Females,Salary,21200
+104,Coffs Harbour - Grafton,2016,Males,Jobs,50.8
+104,Coffs Harbour - Grafton,2017,Males,Jobs,52.5
+104,Coffs Harbour - Grafton,2018,Males,Jobs,53.1
+104,Coffs Harbour - Grafton,2019,Males,Jobs,52.9
+104,Coffs Harbour - Grafton,2020,Males,Jobs,54.9
+104,Coffs Harbour - Grafton,2016,Females,Jobs,49.3
+104,Coffs Harbour - Grafton,2017,Females,Jobs,50.3
+104,Coffs Harbour - Grafton,2018,Females,Jobs,51.8
+104,Coffs Harbour - Grafton,2019,Females,Jobs,51.6
+104,Coffs Harbour - Grafton,2020,Females,Jobs,55.6
+104,Coffs Harbour - Grafton,2016,Males,Salary,22400
+104,Coffs Harbour - Grafton,2017,Males,Salary,22850
+104,Coffs Harbour - Grafton,2018,Males,Salary,24200
+104,Coffs Harbour - Grafton,2019,Males,Salary,24877
+104,Coffs Harbour - Grafton,2020,Males,Salary,24952
+104,Coffs Harbour - Grafton,2016,Females,Salary,16150
+104,Coffs Harbour - Grafton,2017,Females,Salary,17024
+104,Coffs Harbour - Grafton,2018,Females,Salary,17625
+104,Coffs Harbour - Grafton,2019,Females,Salary,19373
+104,Coffs Harbour - Grafton,2020,Females,Salary,19709
+105,Far West and Orana,2016,Males,Jobs,47
+105,Far West and Orana,2017,Males,Jobs,47.1
+105,Far West and Orana,2018,Males,Jobs,46.3
+105,Far West and Orana,2019,Males,Jobs,45.3
+105,Far West and Orana,2020,Males,Jobs,48.9
+105,Far West and Orana,2016,Females,Jobs,42.5
+105,Far West and Orana,2017,Females,Jobs,43
+105,Far West and Orana,2018,Females,Jobs,43.7
+105,Far West and Orana,2019,Females,Jobs,42.4
+105,Far West and Orana,2020,Females,Jobs,46.4
+105,Far West and Orana,2016,Males,Salary,23492
+105,Far West and Orana,2017,Males,Salary,23857
+105,Far West and Orana,2018,Males,Salary,23806
+105,Far West and Orana,2019,Males,Salary,25467
+105,Far West and Orana,2020,Males,Salary,25831
+105,Far West and Orana,2016,Females,Salary,18294
+105,Far West and Orana,2017,Females,Salary,18539
+105,Far West and Orana,2018,Females,Salary,18567
+105,Far West and Orana,2019,Females,Salary,21090
+105,Far West and Orana,2020,Females,Salary,20450
+106,Hunter Valley exc Newcastle,2016,Males,Jobs,104.4
+106,Hunter Valley exc Newcastle,2017,Males,Jobs,107.3
+106,Hunter Valley exc Newcastle,2018,Males,Jobs,109
+106,Hunter Valley exc Newcastle,2019,Males,Jobs,108.3
+106,Hunter Valley exc Newcastle,2020,Males,Jobs,113.6
+106,Hunter Valley exc Newcastle,2016,Females,Jobs,92.4
+106,Hunter Valley exc Newcastle,2017,Females,Jobs,95.6
+106,Hunter Valley exc Newcastle,2018,Females,Jobs,100
+106,Hunter Valley exc Newcastle,2019,Females,Jobs,99.9
+106,Hunter Valley exc Newcastle,2020,Females,Jobs,109.1
+106,Hunter Valley exc Newcastle,2016,Males,Salary,35003
+106,Hunter Valley exc Newcastle,2017,Males,Salary,35596
+106,Hunter Valley exc Newcastle,2018,Males,Salary,37651
+106,Hunter Valley exc Newcastle,2019,Males,Salary,39932
+106,Hunter Valley exc Newcastle,2020,Males,Salary,39149
+106,Hunter Valley exc Newcastle,2016,Females,Salary,19275
+106,Hunter Valley exc Newcastle,2017,Females,Salary,20151
+106,Hunter Valley exc Newcastle,2018,Females,Salary,20378
+106,Hunter Valley exc Newcastle,2019,Females,Salary,22826
+106,Hunter Valley exc Newcastle,2020,Females,Salary,22618
+107,Illawarra,2016,Males,Jobs,111.5
+107,Illawarra,2017,Males,Jobs,113.4
+107,Illawarra,2018,Males,Jobs,114.7
+107,Illawarra,2019,Males,Jobs,114.3
+107,Illawarra,2020,Males,Jobs,119.3
+107,Illawarra,2016,Females,Jobs,103.9
+107,Illawarra,2017,Females,Jobs,105.7
+107,Illawarra,2018,Females,Jobs,110.2
+107,Illawarra,2019,Females,Jobs,109.7
+107,Illawarra,2020,Females,Jobs,116.8
+107,Illawarra,2016,Males,Salary,35552
+107,Illawarra,2017,Males,Salary,37093
+107,Illawarra,2018,Males,Salary,39000
+107,Illawarra,2019,Males,Salary,40929
+107,Illawarra,2020,Males,Salary,40372
+107,Illawarra,2016,Females,Salary,22307
+107,Illawarra,2017,Females,Salary,23400
+107,Illawarra,2018,Females,Salary,23492
+107,Illawarra,2019,Females,Salary,25931
+107,Illawarra,2020,Females,Salary,26315
+108,Mid North Coast,2016,Males,Jobs,67.8
+108,Mid North Coast,2017,Males,Jobs,68.8
+108,Mid North Coast,2018,Males,Jobs,69.4
+108,Mid North Coast,2019,Males,Jobs,68.9
+108,Mid North Coast,2020,Males,Jobs,73.4
+108,Mid North Coast,2016,Females,Jobs,66.7
+108,Mid North Coast,2017,Females,Jobs,68.2
+108,Mid North Coast,2018,Females,Jobs,71.3
+108,Mid North Coast,2019,Females,Jobs,70
+108,Mid North Coast,2020,Females,Jobs,77.3
+108,Mid North Coast,2016,Males,Salary,24640
+108,Mid North Coast,2017,Males,Salary,25180
+108,Mid North Coast,2018,Males,Salary,25962
+108,Mid North Coast,2019,Males,Salary,27533
+108,Mid North Coast,2020,Males,Salary,27374
+108,Mid North Coast,2016,Females,Salary,18502
+108,Mid North Coast,2017,Females,Salary,19188
+108,Mid North Coast,2018,Females,Salary,19140
+108,Mid North Coast,2019,Females,Salary,21557
+108,Mid North Coast,2020,Females,Salary,21000
+109,Murray,2016,Males,Jobs,47.8
+109,Murray,2017,Males,Jobs,48.1
+109,Murray,2018,Males,Jobs,48.4
+109,Murray,2019,Males,Jobs,49.9
+109,Murray,2020,Males,Jobs,52.2
+109,Murray,2016,Females,Jobs,44.5
+109,Murray,2017,Females,Jobs,45.2
+109,Murray,2018,Females,Jobs,46.2
+109,Murray,2019,Females,Jobs,46.4
+109,Murray,2020,Females,Jobs,50.2
+109,Murray,2016,Males,Salary,23751
+109,Murray,2017,Males,Salary,25107
+109,Murray,2018,Males,Salary,25753
+109,Murray,2019,Males,Salary,25812
+109,Murray,2020,Males,Salary,27456
+109,Murray,2016,Females,Salary,17226
+109,Murray,2017,Females,Salary,17798
+109,Murray,2018,Females,Salary,18060
+109,Murray,2019,Females,Salary,19981
+109,Murray,2020,Females,Salary,19784
+110,New England and North West,2016,Males,Jobs,74.7
+110,New England and North West,2017,Males,Jobs,76
+110,New England and North West,2018,Males,Jobs,74.4
+110,New England and North West,2019,Males,Jobs,72.4
+110,New England and North West,2020,Males,Jobs,76.1
+110,New England and North West,2016,Females,Jobs,68.1
+110,New England and North West,2017,Females,Jobs,69.3
+110,New England and North West,2018,Females,Jobs,69.6
+110,New England and North West,2019,Females,Jobs,66.6
+110,New England and North West,2020,Females,Jobs,71.8
+110,New England and North West,2016,Males,Salary,22473
+110,New England and North West,2017,Males,Salary,23415
+110,New England and North West,2018,Males,Salary,24000
+110,New England and North West,2019,Males,Salary,24854
+110,New England and North West,2020,Males,Salary,25554
+110,New England and North West,2016,Females,Salary,16616
+110,New England and North West,2017,Females,Salary,17267
+110,New England and North West,2018,Females,Salary,17470
+110,New England and North West,2019,Females,Salary,19600
+110,New England and North West,2020,Females,Salary,19959
+111,Newcastle and Lake Macquarie,2016,Males,Jobs,143
+111,Newcastle and Lake Macquarie,2017,Males,Jobs,145.3
+111,Newcastle and Lake Macquarie,2018,Males,Jobs,148.3
+111,Newcastle and Lake Macquarie,2019,Males,Jobs,146.3
+111,Newcastle and Lake Macquarie,2020,Males,Jobs,152.6
+111,Newcastle and Lake Macquarie,2016,Females,Jobs,136.3
+111,Newcastle and Lake Macquarie,2017,Females,Jobs,139.4
+111,Newcastle and Lake Macquarie,2018,Females,Jobs,144.9
+111,Newcastle and Lake Macquarie,2019,Females,Jobs,143.1
+111,Newcastle and Lake Macquarie,2020,Females,Jobs,153.8
+111,Newcastle and Lake Macquarie,2016,Males,Salary,33686
+111,Newcastle and Lake Macquarie,2017,Males,Salary,35180
+111,Newcastle and Lake Macquarie,2018,Males,Salary,35852
+111,Newcastle and Lake Macquarie,2019,Males,Salary,38386
+111,Newcastle and Lake Macquarie,2020,Males,Salary,38670
+111,Newcastle and Lake Macquarie,2016,Females,Salary,22053
+111,Newcastle and Lake Macquarie,2017,Females,Salary,22920
+111,Newcastle and Lake Macquarie,2018,Females,Salary,23387
+111,Newcastle and Lake Macquarie,2019,Females,Salary,26068
+111,Newcastle and Lake Macquarie,2020,Females,Salary,26245
+112,Richmond - Tweed,2016,Males,Jobs,91.2
+112,Richmond - Tweed,2017,Males,Jobs,92.7
+112,Richmond - Tweed,2018,Males,Jobs,94.5
+112,Richmond - Tweed,2019,Males,Jobs,93.4
+112,Richmond - Tweed,2020,Males,Jobs,99.2
+112,Richmond - Tweed,2016,Females,Jobs,91.3
+112,Richmond - Tweed,2017,Females,Jobs,92.9
+112,Richmond - Tweed,2018,Females,Jobs,97
+112,Richmond - Tweed,2019,Females,Jobs,95.8
+112,Richmond - Tweed,2020,Females,Jobs,103.4
+112,Richmond - Tweed,2016,Males,Salary,22238
+112,Richmond - Tweed,2017,Males,Salary,23451
+112,Richmond - Tweed,2018,Males,Salary,23775
+112,Richmond - Tweed,2019,Males,Salary,25326
+112,Richmond - Tweed,2020,Males,Salary,25200
+112,Richmond - Tweed,2016,Females,Salary,16518
+112,Richmond - Tweed,2017,Females,Salary,17397
+112,Richmond - Tweed,2018,Females,Salary,17453
+112,Richmond - Tweed,2019,Females,Salary,19076
+112,Richmond - Tweed,2020,Females,Salary,19842
+113,Riverina,2016,Males,Jobs,68.2
+113,Riverina,2017,Males,Jobs,69
+113,Riverina,2018,Males,Jobs,68.5
+113,Riverina,2019,Males,Jobs,69
+113,Riverina,2020,Males,Jobs,73
+113,Riverina,2016,Females,Jobs,62.8
+113,Riverina,2017,Females,Jobs,63
+113,Riverina,2018,Females,Jobs,64.4
+113,Riverina,2019,Females,Jobs,63.3
+113,Riverina,2020,Females,Jobs,67.9
+113,Riverina,2016,Males,Salary,25240
+113,Riverina,2017,Males,Salary,25526
+113,Riverina,2018,Males,Salary,27512
+113,Riverina,2019,Males,Salary,27948
+113,Riverina,2020,Males,Salary,28437
+113,Riverina,2016,Females,Salary,17812
+113,Riverina,2017,Females,Salary,18737
+113,Riverina,2018,Females,Salary,19192
+113,Riverina,2019,Females,Salary,20818
+113,Riverina,2020,Females,Salary,21402
+114,Southern Highlands and Shoalhaven,2016,Males,Jobs,51.9
+114,Southern Highlands and Shoalhaven,2017,Males,Jobs,52.2
+114,Southern Highlands and Shoalhaven,2018,Males,Jobs,53
+114,Southern Highlands and Shoalhaven,2019,Males,Jobs,53.1
+114,Southern Highlands and Shoalhaven,2020,Males,Jobs,56
+114,Southern Highlands and Shoalhaven,2016,Females,Jobs,50.8
+114,Southern Highlands and Shoalhaven,2017,Females,Jobs,51.2
+114,Southern Highlands and Shoalhaven,2018,Females,Jobs,53.3
+114,Southern Highlands and Shoalhaven,2019,Females,Jobs,52.7
+114,Southern Highlands and Shoalhaven,2020,Females,Jobs,57.2
+114,Southern Highlands and Shoalhaven,2016,Males,Salary,28190
+114,Southern Highlands and Shoalhaven,2017,Males,Salary,29602
+114,Southern Highlands and Shoalhaven,2018,Males,Salary,30000
+114,Southern Highlands and Shoalhaven,2019,Males,Salary,32327
+114,Southern Highlands and Shoalhaven,2020,Males,Salary,32962
+114,Southern Highlands and Shoalhaven,2016,Females,Salary,18072
+114,Southern Highlands and Shoalhaven,2017,Females,Salary,18955
+114,Southern Highlands and Shoalhaven,2018,Females,Salary,19144
+114,Southern Highlands and Shoalhaven,2019,Females,Salary,21364
+114,Southern Highlands and Shoalhaven,2020,Females,Salary,21761
+115,Sydney - Baulkham Hills and Hawkesbury,2016,Males,Jobs,96.5
+115,Sydney - Baulkham Hills and Hawkesbury,2017,Males,Jobs,98.7
+115,Sydney - Baulkham Hills and Hawkesbury,2018,Males,Jobs,101.9
+115,Sydney - Baulkham Hills and Hawkesbury,2019,Males,Jobs,102.4
+115,Sydney - Baulkham Hills and Hawkesbury,2020,Males,Jobs,106.7
+115,Sydney - Baulkham Hills and Hawkesbury,2016,Females,Jobs,94.3
+115,Sydney - Baulkham Hills and Hawkesbury,2017,Females,Jobs,96.6
+115,Sydney - Baulkham Hills and Hawkesbury,2018,Females,Jobs,100.3
+115,Sydney - Baulkham Hills and Hawkesbury,2019,Females,Jobs,99.4
+115,Sydney - Baulkham Hills and Hawkesbury,2020,Females,Jobs,105.7
+115,Sydney - Baulkham Hills and Hawkesbury,2016,Males,Salary,42593
+115,Sydney - Baulkham Hills and Hawkesbury,2017,Males,Salary,43605
+115,Sydney - Baulkham Hills and Hawkesbury,2018,Males,Salary,45231
+115,Sydney - Baulkham Hills and Hawkesbury,2019,Males,Salary,47850
+115,Sydney - Baulkham Hills and Hawkesbury,2020,Males,Salary,48731
+115,Sydney - Baulkham Hills and Hawkesbury,2016,Females,Salary,25085
+115,Sydney - Baulkham Hills and Hawkesbury,2017,Females,Salary,26056
+115,Sydney - Baulkham Hills and Hawkesbury,2018,Females,Salary,26945
+115,Sydney - Baulkham Hills and Hawkesbury,2019,Females,Salary,30483
+115,Sydney - Baulkham Hills and Hawkesbury,2020,Females,Salary,31411
+116,Sydney - Blacktown,2016,Males,Jobs,151.5
+116,Sydney - Blacktown,2017,Males,Jobs,157.6
+116,Sydney - Blacktown,2018,Males,Jobs,164.5
+116,Sydney - Blacktown,2019,Males,Jobs,162.8
+116,Sydney - Blacktown,2020,Males,Jobs,171.7
+116,Sydney - Blacktown,2016,Females,Jobs,125.2
+116,Sydney - Blacktown,2017,Females,Jobs,130.2
+116,Sydney - Blacktown,2018,Females,Jobs,138.9
+116,Sydney - Blacktown,2019,Females,Jobs,137.2
+116,Sydney - Blacktown,2020,Females,Jobs,148.3
+116,Sydney - Blacktown,2016,Males,Salary,32818
+116,Sydney - Blacktown,2017,Males,Salary,33845
+116,Sydney - Blacktown,2018,Males,Salary,35058
+116,Sydney - Blacktown,2019,Males,Salary,38726
+116,Sydney - Blacktown,2020,Males,Salary,38326
+116,Sydney - Blacktown,2016,Females,Salary,24828
+116,Sydney - Blacktown,2017,Females,Salary,25756
+116,Sydney - Blacktown,2018,Females,Salary,26025
+116,Sydney - Blacktown,2019,Females,Salary,29923
+116,Sydney - Blacktown,2020,Females,Salary,29143
+117,Sydney - City and Inner South,2016,Males,Jobs,202.1
+117,Sydney - City and Inner South,2017,Males,Jobs,199.5
+117,Sydney - City and Inner South,2018,Males,Jobs,201.2
+117,Sydney - City and Inner South,2019,Males,Jobs,190.5
+117,Sydney - City and Inner South,2020,Males,Jobs,181.4
+117,Sydney - City and Inner South,2016,Females,Jobs,181.9
+117,Sydney - City and Inner South,2017,Females,Jobs,183.2
+117,Sydney - City and Inner South,2018,Females,Jobs,185.7
+117,Sydney - City and Inner South,2019,Females,Jobs,175.5
+117,Sydney - City and Inner South,2020,Females,Jobs,169.5
+117,Sydney - City and Inner South,2016,Males,Salary,20629
+117,Sydney - City and Inner South,2017,Males,Salary,22904
+117,Sydney - City and Inner South,2018,Males,Salary,24349
+117,Sydney - City and Inner South,2019,Males,Salary,27708
+117,Sydney - City and Inner South,2020,Males,Salary,33239
+117,Sydney - City and Inner South,2016,Females,Salary,16519
+117,Sydney - City and Inner South,2017,Females,Salary,17818
+117,Sydney - City and Inner South,2018,Females,Salary,18698
+117,Sydney - City and Inner South,2019,Females,Salary,21205
+117,Sydney - City and Inner South,2020,Females,Salary,25139
+118,Sydney - Eastern Suburbs,2016,Males,Jobs,129.1
+118,Sydney - Eastern Suburbs,2017,Males,Jobs,129.1
+118,Sydney - Eastern Suburbs,2018,Males,Jobs,128.9
+118,Sydney - Eastern Suburbs,2019,Males,Jobs,124.8
+118,Sydney - Eastern Suburbs,2020,Males,Jobs,119.8
+118,Sydney - Eastern Suburbs,2016,Females,Jobs,136.7
+118,Sydney - Eastern Suburbs,2017,Females,Jobs,139.1
+118,Sydney - Eastern Suburbs,2018,Females,Jobs,141.4
+118,Sydney - Eastern Suburbs,2019,Females,Jobs,134.9
+118,Sydney - Eastern Suburbs,2020,Females,Jobs,129.9
+118,Sydney - Eastern Suburbs,2016,Males,Salary,31830
+118,Sydney - Eastern Suburbs,2017,Males,Salary,33366
+118,Sydney - Eastern Suburbs,2018,Males,Salary,34295
+118,Sydney - Eastern Suburbs,2019,Males,Salary,36565
+118,Sydney - Eastern Suburbs,2020,Males,Salary,40933
+118,Sydney - Eastern Suburbs,2016,Females,Salary,21279
+118,Sydney - Eastern Suburbs,2017,Females,Salary,21596
+118,Sydney - Eastern Suburbs,2018,Females,Salary,21487
+118,Sydney - Eastern Suburbs,2019,Females,Salary,24290
+118,Sydney - Eastern Suburbs,2020,Females,Salary,28568
+119,Sydney - Inner South West,2016,Males,Jobs,238.4
+119,Sydney - Inner South West,2017,Males,Jobs,245.5
+119,Sydney - Inner South West,2018,Males,Jobs,252.7
+119,Sydney - Inner South West,2019,Males,Jobs,248.6
+119,Sydney - Inner South West,2020,Males,Jobs,250.9
+119,Sydney - Inner South West,2016,Females,Jobs,205.4
+119,Sydney - Inner South West,2017,Females,Jobs,211.8
+119,Sydney - Inner South West,2018,Females,Jobs,220.8
+119,Sydney - Inner South West,2019,Females,Jobs,215
+119,Sydney - Inner South West,2020,Females,Jobs,219.8
+119,Sydney - Inner South West,2016,Males,Salary,27186
+119,Sydney - Inner South West,2017,Males,Salary,27658
+119,Sydney - Inner South West,2018,Males,Salary,28332
+119,Sydney - Inner South West,2019,Males,Salary,29605
+119,Sydney - Inner South West,2020,Males,Salary,30801
+119,Sydney - Inner South West,2016,Females,Salary,22040
+119,Sydney - Inner South West,2017,Females,Salary,22500
+119,Sydney - Inner South West,2018,Females,Salary,22884
+119,Sydney - Inner South West,2019,Females,Salary,25275
+119,Sydney - Inner South West,2020,Females,Salary,26246
+120,Sydney - Inner West,2016,Males,Jobs,136
+120,Sydney - Inner West,2017,Males,Jobs,139
+120,Sydney - Inner West,2018,Males,Jobs,142.9
+120,Sydney - Inner West,2019,Males,Jobs,139.5
+120,Sydney - Inner West,2020,Males,Jobs,140.6
+120,Sydney - Inner West,2016,Females,Jobs,133.1
+120,Sydney - Inner West,2017,Females,Jobs,136.3
+120,Sydney - Inner West,2018,Females,Jobs,140.8
+120,Sydney - Inner West,2019,Females,Jobs,136.6
+120,Sydney - Inner West,2020,Females,Jobs,139
+120,Sydney - Inner West,2016,Males,Salary,32071
+120,Sydney - Inner West,2017,Males,Salary,32583
+120,Sydney - Inner West,2018,Males,Salary,32957
+120,Sydney - Inner West,2019,Males,Salary,35111
+120,Sydney - Inner West,2020,Males,Salary,35639
+120,Sydney - Inner West,2016,Females,Salary,25000
+120,Sydney - Inner West,2017,Females,Salary,25761
+120,Sydney - Inner West,2018,Females,Salary,26114
+120,Sydney - Inner West,2019,Females,Salary,29281
+120,Sydney - Inner West,2020,Females,Salary,30300
+121,Sydney - North Sydney and Hornsby,2016,Males,Jobs,174
+121,Sydney - North Sydney and Hornsby,2017,Males,Jobs,175.1
+121,Sydney - North Sydney and Hornsby,2018,Males,Jobs,177.5
+121,Sydney - North Sydney and Hornsby,2019,Males,Jobs,173.5
+121,Sydney - North Sydney and Hornsby,2020,Males,Jobs,172.8
+121,Sydney - North Sydney and Hornsby,2016,Females,Jobs,178.2
+121,Sydney - North Sydney and Hornsby,2017,Females,Jobs,181
+121,Sydney - North Sydney and Hornsby,2018,Females,Jobs,184.8
+121,Sydney - North Sydney and Hornsby,2019,Females,Jobs,177.9
+121,Sydney - North Sydney and Hornsby,2020,Females,Jobs,180.3
+121,Sydney - North Sydney and Hornsby,2016,Males,Salary,45083
+121,Sydney - North Sydney and Hornsby,2017,Males,Salary,47086
+121,Sydney - North Sydney and Hornsby,2018,Males,Salary,48831
+121,Sydney - North Sydney and Hornsby,2019,Males,Salary,51735
+121,Sydney - North Sydney and Hornsby,2020,Males,Salary,52615
+121,Sydney - North Sydney and Hornsby,2016,Females,Salary,27000
+121,Sydney - North Sydney and Hornsby,2017,Females,Salary,27990
+121,Sydney - North Sydney and Hornsby,2018,Females,Salary,28835
+121,Sydney - North Sydney and Hornsby,2019,Females,Salary,32712
+121,Sydney - North Sydney and Hornsby,2020,Females,Salary,34330
+122,Sydney - Northern Beaches,2016,Males,Jobs,114.4
+122,Sydney - Northern Beaches,2017,Males,Jobs,115
+122,Sydney - Northern Beaches,2018,Males,Jobs,116.1
+122,Sydney - Northern Beaches,2019,Males,Jobs,114.2
+122,Sydney - Northern Beaches,2020,Males,Jobs,113.4
+122,Sydney - Northern Beaches,2016,Females,Jobs,117.1
+122,Sydney - Northern Beaches,2017,Females,Jobs,119.4
+122,Sydney - Northern Beaches,2018,Females,Jobs,122.2
+122,Sydney - Northern Beaches,2019,Females,Jobs,118.1
+122,Sydney - Northern Beaches,2020,Females,Jobs,118.9
+122,Sydney - Northern Beaches,2016,Males,Salary,38099
+122,Sydney - Northern Beaches,2017,Males,Salary,39583
+122,Sydney - Northern Beaches,2018,Males,Salary,40142
+122,Sydney - Northern Beaches,2019,Males,Salary,43073
+122,Sydney - Northern Beaches,2020,Males,Salary,45000
+122,Sydney - Northern Beaches,2016,Females,Salary,21979
+122,Sydney - Northern Beaches,2017,Females,Salary,22778
+122,Sydney - Northern Beaches,2018,Females,Salary,23680
+122,Sydney - Northern Beaches,2019,Females,Salary,26756
+122,Sydney - Northern Beaches,2020,Females,Salary,28512
+123,Sydney - Outer South West,2016,Males,Jobs,112.5
+123,Sydney - Outer South West,2017,Males,Jobs,115.5
+123,Sydney - Outer South West,2018,Males,Jobs,117.9
+123,Sydney - Outer South West,2019,Males,Jobs,116.8
+123,Sydney - Outer South West,2020,Males,Jobs,121.7
+123,Sydney - Outer South West,2016,Females,Jobs,99.1
+123,Sydney - Outer South West,2017,Females,Jobs,101
+123,Sydney - Outer South West,2018,Females,Jobs,104.9
+123,Sydney - Outer South West,2019,Females,Jobs,103.1
+123,Sydney - Outer South West,2020,Females,Jobs,109.6
+123,Sydney - Outer South West,2016,Males,Salary,36072
+123,Sydney - Outer South West,2017,Males,Salary,37330
+123,Sydney - Outer South West,2018,Males,Salary,39277
+123,Sydney - Outer South West,2019,Males,Salary,41755
+123,Sydney - Outer South West,2020,Males,Salary,40376
+123,Sydney - Outer South West,2016,Females,Salary,23994
+123,Sydney - Outer South West,2017,Females,Salary,25304
+123,Sydney - Outer South West,2018,Females,Salary,26299
+123,Sydney - Outer South West,2019,Females,Salary,29522
+123,Sydney - Outer South West,2020,Females,Salary,28584
+124,Sydney - Outer West and Blue Mountains,2016,Males,Jobs,130.7
+124,Sydney - Outer West and Blue Mountains,2017,Males,Jobs,132.4
+124,Sydney - Outer West and Blue Mountains,2018,Males,Jobs,134.1
+124,Sydney - Outer West and Blue Mountains,2019,Males,Jobs,130.9
+124,Sydney - Outer West and Blue Mountains,2020,Males,Jobs,135.4
+124,Sydney - Outer West and Blue Mountains,2016,Females,Jobs,121.3
+124,Sydney - Outer West and Blue Mountains,2017,Females,Jobs,122.7
+124,Sydney - Outer West and Blue Mountains,2018,Females,Jobs,125.7
+124,Sydney - Outer West and Blue Mountains,2019,Females,Jobs,122.2
+124,Sydney - Outer West and Blue Mountains,2020,Females,Jobs,127.9
+124,Sydney - Outer West and Blue Mountains,2016,Males,Salary,36782
+124,Sydney - Outer West and Blue Mountains,2017,Males,Salary,38137
+124,Sydney - Outer West and Blue Mountains,2018,Males,Salary,39680
+124,Sydney - Outer West and Blue Mountains,2019,Males,Salary,42981
+124,Sydney - Outer West and Blue Mountains,2020,Males,Salary,41932
+124,Sydney - Outer West and Blue Mountains,2016,Females,Salary,23894
+124,Sydney - Outer West and Blue Mountains,2017,Females,Salary,25000
+124,Sydney - Outer West and Blue Mountains,2018,Females,Salary,26041
+124,Sydney - Outer West and Blue Mountains,2019,Females,Salary,29351
+124,Sydney - Outer West and Blue Mountains,2020,Females,Salary,29342
+125,Sydney - Parramatta,2016,Males,Jobs,200.1
+125,Sydney - Parramatta,2017,Males,Jobs,208.8
+125,Sydney - Parramatta,2018,Males,Jobs,216.9
+125,Sydney - Parramatta,2019,Males,Jobs,214.3
+125,Sydney - Parramatta,2020,Males,Jobs,220
+125,Sydney - Parramatta,2016,Females,Jobs,154.4
+125,Sydney - Parramatta,2017,Females,Jobs,162.2
+125,Sydney - Parramatta,2018,Females,Jobs,170.8
+125,Sydney - Parramatta,2019,Females,Jobs,167.7
+125,Sydney - Parramatta,2020,Females,Jobs,176.8
+125,Sydney - Parramatta,2016,Males,Salary,26872
+125,Sydney - Parramatta,2017,Males,Salary,27477
+125,Sydney - Parramatta,2018,Males,Salary,28223
+125,Sydney - Parramatta,2019,Males,Salary,29730
+125,Sydney - Parramatta,2020,Males,Salary,30000
+125,Sydney - Parramatta,2016,Females,Salary,21881
+125,Sydney - Parramatta,2017,Females,Salary,22067
+125,Sydney - Parramatta,2018,Females,Salary,22486
+125,Sydney - Parramatta,2019,Females,Salary,25000
+125,Sydney - Parramatta,2020,Females,Salary,25218
+126,Sydney - Ryde,2016,Males,Jobs,76.7
+126,Sydney - Ryde,2017,Males,Jobs,79
+126,Sydney - Ryde,2018,Males,Jobs,82.4
+126,Sydney - Ryde,2019,Males,Jobs,82.1
+126,Sydney - Ryde,2020,Males,Jobs,83.6
+126,Sydney - Ryde,2016,Females,Jobs,74.6
+126,Sydney - Ryde,2017,Females,Jobs,77.9
+126,Sydney - Ryde,2018,Females,Jobs,81.5
+126,Sydney - Ryde,2019,Females,Jobs,80.3
+126,Sydney - Ryde,2020,Females,Jobs,83.1
+126,Sydney - Ryde,2016,Males,Salary,36060
+126,Sydney - Ryde,2017,Males,Salary,37000
+126,Sydney - Ryde,2018,Males,Salary,38401
+126,Sydney - Ryde,2019,Males,Salary,41626
+126,Sydney - Ryde,2020,Males,Salary,42269
+126,Sydney - Ryde,2016,Females,Salary,25080
+126,Sydney - Ryde,2017,Females,Salary,25508
+126,Sydney - Ryde,2018,Females,Salary,26391
+126,Sydney - Ryde,2019,Females,Salary,29429
+126,Sydney - Ryde,2020,Females,Salary,30519
+127,Sydney - South West,2016,Males,Jobs,153.5
+127,Sydney - South West,2017,Males,Jobs,159.6
+127,Sydney - South West,2018,Males,Jobs,165
+127,Sydney - South West,2019,Males,Jobs,165.3
+127,Sydney - South West,2020,Males,Jobs,172.5
+127,Sydney - South West,2016,Females,Jobs,127.4
+127,Sydney - South West,2017,Females,Jobs,132.8
+127,Sydney - South West,2018,Females,Jobs,139.6
+127,Sydney - South West,2019,Females,Jobs,138.5
+127,Sydney - South West,2020,Females,Jobs,147.9
+127,Sydney - South West,2016,Males,Salary,31579
+127,Sydney - South West,2017,Males,Salary,32415
+127,Sydney - South West,2018,Males,Salary,33640
+127,Sydney - South West,2019,Males,Salary,35772
+127,Sydney - South West,2020,Males,Salary,35200
+127,Sydney - South West,2016,Females,Salary,23425
+127,Sydney - South West,2017,Females,Salary,24000
+127,Sydney - South West,2018,Females,Salary,24823
+127,Sydney - South West,2019,Females,Salary,27669
+127,Sydney - South West,2020,Females,Salary,27468
+128,Sydney - Sutherland,2016,Males,Jobs,90.3
+128,Sydney - Sutherland,2017,Males,Jobs,90.3
+128,Sydney - Sutherland,2018,Males,Jobs,91.1
+128,Sydney - Sutherland,2019,Males,Jobs,90.4
+128,Sydney - Sutherland,2020,Males,Jobs,91.5
+128,Sydney - Sutherland,2016,Females,Jobs,92.1
+128,Sydney - Sutherland,2017,Females,Jobs,92.4
+128,Sydney - Sutherland,2018,Females,Jobs,94.3
+128,Sydney - Sutherland,2019,Females,Jobs,92.4
+128,Sydney - Sutherland,2020,Females,Jobs,95.4
+128,Sydney - Sutherland,2016,Males,Salary,44468
+128,Sydney - Sutherland,2017,Males,Salary,46050
+128,Sydney - Sutherland,2018,Males,Salary,47389
+128,Sydney - Sutherland,2019,Males,Salary,50000
+128,Sydney - Sutherland,2020,Males,Salary,51097
+128,Sydney - Sutherland,2016,Females,Salary,26052
+128,Sydney - Sutherland,2017,Females,Salary,27400
+128,Sydney - Sutherland,2018,Females,Salary,28046
+128,Sydney - Sutherland,2019,Females,Salary,31200
+128,Sydney - Sutherland,2020,Females,Salary,32183
+201,Ballarat,2016,Males,Jobs,2500.6
+201,Ballarat,2017,Males,Jobs,2582.7
+201,Ballarat,2018,Males,Jobs,2664.6
+201,Ballarat,2019,Males,Jobs,2658.1
+201,Ballarat,2020,Males,Jobs,2678.3
+201,Ballarat,2016,Females,Jobs,2363.7
+201,Ballarat,2017,Females,Jobs,2432.6
+201,Ballarat,2018,Females,Jobs,2555.3
+201,Ballarat,2019,Females,Jobs,2541.6
+201,Ballarat,2020,Females,Jobs,2593.6
+201,Ballarat,2016,Males,Salary,28398
+201,Ballarat,2017,Males,Salary,29340
+201,Ballarat,2018,Males,Salary,30946
+201,Ballarat,2019,Males,Salary,32860
+201,Ballarat,2020,Males,Salary,33766
+201,Ballarat,2016,Females,Salary,18827
+201,Ballarat,2017,Females,Salary,19559
+201,Ballarat,2018,Females,Salary,19676
+201,Ballarat,2019,Females,Salary,21969
+201,Ballarat,2020,Females,Salary,22977
+202,Bendigo,2016,Males,Jobs,59
+202,Bendigo,2017,Males,Jobs,60.6
+202,Bendigo,2018,Males,Jobs,62.2
+202,Bendigo,2019,Males,Jobs,62.9
+202,Bendigo,2020,Males,Jobs,64.4
+202,Bendigo,2016,Females,Jobs,58
+202,Bendigo,2017,Females,Jobs,58.4
+202,Bendigo,2018,Females,Jobs,62.4
+202,Bendigo,2019,Females,Jobs,62.9
+202,Bendigo,2020,Females,Jobs,65.6
+202,Bendigo,2016,Males,Salary,28397
+202,Bendigo,2017,Males,Salary,30847
+202,Bendigo,2018,Males,Salary,31912
+202,Bendigo,2019,Males,Salary,33391
+202,Bendigo,2020,Males,Salary,34974
+202,Bendigo,2016,Females,Salary,17969
+202,Bendigo,2017,Females,Salary,19344
+202,Bendigo,2018,Females,Salary,19967
+202,Bendigo,2019,Females,Salary,22627
+202,Bendigo,2020,Females,Salary,23742
+203,Geelong,2016,Males,Jobs,58.3
+203,Geelong,2017,Males,Jobs,58.9
+203,Geelong,2018,Males,Jobs,60.5
+203,Geelong,2019,Males,Jobs,60.9
+203,Geelong,2020,Males,Jobs,62.4
+203,Geelong,2016,Females,Jobs,58.3
+203,Geelong,2017,Females,Jobs,59.1
+203,Geelong,2018,Females,Jobs,61.9
+203,Geelong,2019,Females,Jobs,61.7
+203,Geelong,2020,Females,Jobs,64.4
+203,Geelong,2016,Males,Salary,30055
+203,Geelong,2017,Males,Salary,31089
+203,Geelong,2018,Males,Salary,32218
+203,Geelong,2019,Males,Salary,33682
+203,Geelong,2020,Males,Salary,34263
+203,Geelong,2016,Females,Salary,18675
+203,Geelong,2017,Females,Salary,19180
+203,Geelong,2018,Females,Salary,20190
+203,Geelong,2019,Females,Salary,22296
+203,Geelong,2020,Females,Salary,23002
+204,Hume,2016,Males,Jobs,111.8
+204,Hume,2017,Males,Jobs,115.8
+204,Hume,2018,Males,Jobs,119.5
+204,Hume,2019,Males,Jobs,122.7
+204,Hume,2020,Males,Jobs,127.9
+204,Hume,2016,Females,Jobs,110.8
+204,Hume,2017,Females,Jobs,115.6
+204,Hume,2018,Females,Jobs,121
+204,Hume,2019,Females,Jobs,123.9
+204,Hume,2020,Females,Jobs,130.4
+204,Hume,2016,Males,Salary,26264
+204,Hume,2017,Males,Salary,26928
+204,Hume,2018,Males,Salary,28142
+204,Hume,2019,Males,Salary,30413
+204,Hume,2020,Males,Salary,30455
+204,Hume,2016,Females,Salary,16075
+204,Hume,2017,Females,Salary,17058
+204,Hume,2018,Females,Salary,17337
+204,Hume,2019,Females,Salary,19884
+204,Hume,2020,Females,Salary,20684
+205,Latrobe - Gippsland,2016,Males,Jobs,69.1
+205,Latrobe - Gippsland,2017,Males,Jobs,70.7
+205,Latrobe - Gippsland,2018,Males,Jobs,71.4
+205,Latrobe - Gippsland,2019,Males,Jobs,71.1
+205,Latrobe - Gippsland,2020,Males,Jobs,74.6
+205,Latrobe - Gippsland,2016,Females,Jobs,67.9
+205,Latrobe - Gippsland,2017,Females,Jobs,68.8
+205,Latrobe - Gippsland,2018,Females,Jobs,71.8
+205,Latrobe - Gippsland,2019,Females,Jobs,70.7
+205,Latrobe - Gippsland,2020,Females,Jobs,75.1
+205,Latrobe - Gippsland,2016,Males,Salary,27553
+205,Latrobe - Gippsland,2017,Males,Salary,28408
+205,Latrobe - Gippsland,2018,Males,Salary,30383
+205,Latrobe - Gippsland,2019,Males,Salary,32011
+205,Latrobe - Gippsland,2020,Males,Salary,33080
+205,Latrobe - Gippsland,2016,Females,Salary,16546
+205,Latrobe - Gippsland,2017,Females,Salary,17815
+205,Latrobe - Gippsland,2018,Females,Salary,17921
+205,Latrobe - Gippsland,2019,Females,Salary,20618
+205,Latrobe - Gippsland,2020,Females,Salary,21130
+206,Melbourne - Inner,2016,Males,Jobs,102.5
+206,Melbourne - Inner,2017,Males,Jobs,104.8
+206,Melbourne - Inner,2018,Males,Jobs,106
+206,Melbourne - Inner,2019,Males,Jobs,106.6
+206,Melbourne - Inner,2020,Males,Jobs,109.6
+206,Melbourne - Inner,2016,Females,Jobs,97.5
+206,Melbourne - Inner,2017,Females,Jobs,98.8
+206,Melbourne - Inner,2018,Females,Jobs,104.4
+206,Melbourne - Inner,2019,Females,Jobs,104.1
+206,Melbourne - Inner,2020,Females,Jobs,110.3
+206,Melbourne - Inner,2016,Males,Salary,25113
+206,Melbourne - Inner,2017,Males,Salary,26797
+206,Melbourne - Inner,2018,Males,Salary,27023
+206,Melbourne - Inner,2019,Males,Salary,30130
+206,Melbourne - Inner,2020,Males,Salary,33771
+206,Melbourne - Inner,2016,Females,Salary,18944
+206,Melbourne - Inner,2017,Females,Salary,19833
+206,Melbourne - Inner,2018,Females,Salary,20051
+206,Melbourne - Inner,2019,Females,Salary,22500
+206,Melbourne - Inner,2020,Females,Salary,25823
+207,Melbourne - Inner East,2016,Males,Jobs,309.4
+207,Melbourne - Inner East,2017,Males,Jobs,321.6
+207,Melbourne - Inner East,2018,Males,Jobs,331.6
+207,Melbourne - Inner East,2019,Males,Jobs,322.7
+207,Melbourne - Inner East,2020,Males,Jobs,304.9
+207,Melbourne - Inner East,2016,Females,Jobs,317.8
+207,Melbourne - Inner East,2017,Females,Jobs,328.9
+207,Melbourne - Inner East,2018,Females,Jobs,344.7
+207,Melbourne - Inner East,2019,Females,Jobs,336.1
+207,Melbourne - Inner East,2020,Females,Jobs,319.6
+207,Melbourne - Inner East,2016,Males,Salary,31093
+207,Melbourne - Inner East,2017,Males,Salary,31660
+207,Melbourne - Inner East,2018,Males,Salary,32099
+207,Melbourne - Inner East,2019,Males,Salary,34458
+207,Melbourne - Inner East,2020,Males,Salary,36234
+207,Melbourne - Inner East,2016,Females,Salary,20455
+207,Melbourne - Inner East,2017,Females,Salary,21317
+207,Melbourne - Inner East,2018,Females,Salary,21690
+207,Melbourne - Inner East,2019,Females,Salary,24449
+207,Melbourne - Inner East,2020,Females,Salary,26330
+208,Melbourne - Inner South,2016,Males,Jobs,144.1
+208,Melbourne - Inner South,2017,Males,Jobs,146.2
+208,Melbourne - Inner South,2018,Males,Jobs,150.4
+208,Melbourne - Inner South,2019,Males,Jobs,148.4
+208,Melbourne - Inner South,2020,Males,Jobs,146.1
+208,Melbourne - Inner South,2016,Females,Jobs,147.6
+208,Melbourne - Inner South,2017,Females,Jobs,149.6
+208,Melbourne - Inner South,2018,Females,Jobs,154.7
+208,Melbourne - Inner South,2019,Females,Jobs,152.1
+208,Melbourne - Inner South,2020,Females,Jobs,151.8
+208,Melbourne - Inner South,2016,Males,Salary,36675
+208,Melbourne - Inner South,2017,Males,Salary,37205
+208,Melbourne - Inner South,2018,Males,Salary,37768
+208,Melbourne - Inner South,2019,Males,Salary,40695
+208,Melbourne - Inner South,2020,Males,Salary,43245
+208,Melbourne - Inner South,2016,Females,Salary,22755
+208,Melbourne - Inner South,2017,Females,Salary,23533
+208,Melbourne - Inner South,2018,Females,Salary,24043
+208,Melbourne - Inner South,2019,Females,Salary,27086
+208,Melbourne - Inner South,2020,Females,Salary,28923
+209,Melbourne - North East,2016,Males,Jobs,166.7
+209,Melbourne - North East,2017,Males,Jobs,169.8
+209,Melbourne - North East,2018,Males,Jobs,174.5
+209,Melbourne - North East,2019,Males,Jobs,172.2
+209,Melbourne - North East,2020,Males,Jobs,169.4
+209,Melbourne - North East,2016,Females,Jobs,171.1
+209,Melbourne - North East,2017,Females,Jobs,174.8
+209,Melbourne - North East,2018,Females,Jobs,181.5
+209,Melbourne - North East,2019,Females,Jobs,179
+209,Melbourne - North East,2020,Females,Jobs,179.8
+209,Melbourne - North East,2016,Males,Salary,33037
+209,Melbourne - North East,2017,Males,Salary,33866
+209,Melbourne - North East,2018,Males,Salary,35019
+209,Melbourne - North East,2019,Males,Salary,37000
+209,Melbourne - North East,2020,Males,Salary,37939
+209,Melbourne - North East,2016,Females,Salary,21847
+209,Melbourne - North East,2017,Females,Salary,22763
+209,Melbourne - North East,2018,Females,Salary,23400
+209,Melbourne - North East,2019,Females,Salary,26129
+209,Melbourne - North East,2020,Females,Salary,27148
+210,Melbourne - North West,2016,Males,Jobs,204.8
+210,Melbourne - North West,2017,Males,Jobs,210.8
+210,Melbourne - North West,2018,Males,Jobs,217.3
+210,Melbourne - North West,2019,Males,Jobs,217.2
+210,Melbourne - North West,2020,Males,Jobs,219.4
+210,Melbourne - North West,2016,Females,Jobs,193.2
+210,Melbourne - North West,2017,Females,Jobs,199.5
+210,Melbourne - North West,2018,Females,Jobs,208.4
+210,Melbourne - North West,2019,Females,Jobs,206.5
+210,Melbourne - North West,2020,Females,Jobs,211
+210,Melbourne - North West,2016,Males,Salary,30295
+210,Melbourne - North West,2017,Males,Salary,30899
+210,Melbourne - North West,2018,Males,Salary,31499
+210,Melbourne - North West,2019,Males,Salary,33140
+210,Melbourne - North West,2020,Males,Salary,33007
+210,Melbourne - North West,2016,Females,Salary,21964
+210,Melbourne - North West,2017,Females,Salary,22980
+210,Melbourne - North West,2018,Females,Salary,23458
+210,Melbourne - North West,2019,Females,Salary,25920
+210,Melbourne - North West,2020,Females,Salary,26068
+211,Melbourne - Outer East,2016,Males,Jobs,148.5
+211,Melbourne - Outer East,2017,Males,Jobs,156.1
+211,Melbourne - Outer East,2018,Males,Jobs,164.2
+211,Melbourne - Outer East,2019,Males,Jobs,166.6
+211,Melbourne - Outer East,2020,Males,Jobs,172.3
+211,Melbourne - Outer East,2016,Females,Jobs,127.5
+211,Melbourne - Outer East,2017,Females,Jobs,132.4
+211,Melbourne - Outer East,2018,Females,Jobs,141.5
+211,Melbourne - Outer East,2019,Females,Jobs,142.8
+211,Melbourne - Outer East,2020,Females,Jobs,149.3
+211,Melbourne - Outer East,2016,Males,Salary,36136
+211,Melbourne - Outer East,2017,Males,Salary,37343
+211,Melbourne - Outer East,2018,Males,Salary,38470
+211,Melbourne - Outer East,2019,Males,Salary,41233
+211,Melbourne - Outer East,2020,Males,Salary,42469
+211,Melbourne - Outer East,2016,Females,Salary,21100
+211,Melbourne - Outer East,2017,Females,Salary,22175
+211,Melbourne - Outer East,2018,Females,Salary,22671
+211,Melbourne - Outer East,2019,Females,Salary,25507
+211,Melbourne - Outer East,2020,Females,Salary,27027
+212,Melbourne - South East,2016,Males,Jobs,205.3
+212,Melbourne - South East,2017,Males,Jobs,207
+212,Melbourne - South East,2018,Males,Jobs,210.2
+212,Melbourne - South East,2019,Males,Jobs,205.8
+212,Melbourne - South East,2020,Males,Jobs,204.7
+212,Melbourne - South East,2016,Females,Jobs,203.7
+212,Melbourne - South East,2017,Females,Jobs,205.7
+212,Melbourne - South East,2018,Females,Jobs,212.1
+212,Melbourne - South East,2019,Females,Jobs,207.7
+212,Melbourne - South East,2020,Females,Jobs,208.4
+212,Melbourne - South East,2016,Males,Salary,29201
+212,Melbourne - South East,2017,Males,Salary,29670
+212,Melbourne - South East,2018,Males,Salary,30131
+212,Melbourne - South East,2019,Males,Salary,31559
+212,Melbourne - South East,2020,Males,Salary,32538
+212,Melbourne - South East,2016,Females,Salary,20520
+212,Melbourne - South East,2017,Females,Salary,20944
+212,Melbourne - South East,2018,Females,Salary,21170
+212,Melbourne - South East,2019,Females,Salary,23392
+212,Melbourne - South East,2020,Females,Salary,24186
+213,Melbourne - West,2016,Males,Jobs,321.1
+213,Melbourne - West,2017,Males,Jobs,336.7
+213,Melbourne - West,2018,Males,Jobs,352.8
+213,Melbourne - West,2019,Males,Jobs,356.2
+213,Melbourne - West,2020,Males,Jobs,363.5
+213,Melbourne - West,2016,Females,Jobs,273
+213,Melbourne - West,2017,Females,Jobs,285.4
+213,Melbourne - West,2018,Females,Jobs,304.9
+213,Melbourne - West,2019,Females,Jobs,308.3
+213,Melbourne - West,2020,Females,Jobs,319.3
+213,Melbourne - West,2016,Males,Salary,30217
+213,Melbourne - West,2017,Males,Salary,30448
+213,Melbourne - West,2018,Males,Salary,31258
+213,Melbourne - West,2019,Males,Salary,33254
+213,Melbourne - West,2020,Males,Salary,33326
+213,Melbourne - West,2016,Females,Salary,21803
+213,Melbourne - West,2017,Females,Salary,22388
+213,Melbourne - West,2018,Females,Salary,22857
+213,Melbourne - West,2019,Females,Salary,25000
+213,Melbourne - West,2020,Females,Salary,25200
+214,Mornington Peninsula,2016,Males,Jobs,315.6
+214,Mornington Peninsula,2017,Males,Jobs,337.9
+214,Mornington Peninsula,2018,Males,Jobs,353.9
+214,Mornington Peninsula,2019,Males,Jobs,356.9
+214,Mornington Peninsula,2020,Males,Jobs,367.9
+214,Mornington Peninsula,2016,Females,Jobs,263.9
+214,Mornington Peninsula,2017,Females,Jobs,280.3
+214,Mornington Peninsula,2018,Females,Jobs,298.7
+214,Mornington Peninsula,2019,Females,Jobs,302.1
+214,Mornington Peninsula,2020,Females,Jobs,316.9
+214,Mornington Peninsula,2016,Males,Salary,34273
+214,Mornington Peninsula,2017,Males,Salary,35233
+214,Mornington Peninsula,2018,Males,Salary,36372
+214,Mornington Peninsula,2019,Males,Salary,38996
+214,Mornington Peninsula,2020,Males,Salary,40360
+214,Mornington Peninsula,2016,Females,Salary,19941
+214,Mornington Peninsula,2017,Females,Salary,20926
+214,Mornington Peninsula,2018,Females,Salary,20956
+214,Mornington Peninsula,2019,Females,Salary,23810
+214,Mornington Peninsula,2020,Females,Salary,24961
+215,North West,2016,Males,Jobs,111.2
+215,North West,2017,Males,Jobs,113
+215,North West,2018,Males,Jobs,114.5
+215,North West,2019,Males,Jobs,112.3
+215,North West,2020,Males,Jobs,112.5
+215,North West,2016,Females,Jobs,111.7
+215,North West,2017,Females,Jobs,113.3
+215,North West,2018,Females,Jobs,117.8
+215,North West,2019,Females,Jobs,115.7
+215,North West,2020,Females,Jobs,117.4
+215,North West,2016,Males,Salary,20543
+215,North West,2017,Males,Salary,21829
+215,North West,2018,Males,Salary,22656
+215,North West,2019,Males,Salary,23117
+215,North West,2020,Males,Salary,24225
+215,North West,2016,Females,Salary,14634
+215,North West,2017,Females,Salary,16028
+215,North West,2018,Females,Salary,16538
+215,North West,2019,Females,Salary,17682
+215,North West,2020,Females,Salary,18500
+216,Shepparton,2016,Males,Jobs,62.8
+216,Shepparton,2017,Males,Jobs,65.2
+216,Shepparton,2018,Males,Jobs,66
+216,Shepparton,2019,Males,Jobs,67.2
+216,Shepparton,2020,Males,Jobs,68
+216,Shepparton,2016,Females,Jobs,59
+216,Shepparton,2017,Females,Jobs,60.3
+216,Shepparton,2018,Females,Jobs,62.1
+216,Shepparton,2019,Females,Jobs,62.7
+216,Shepparton,2020,Females,Jobs,64.8
+216,Shepparton,2016,Males,Salary,23587
+216,Shepparton,2017,Males,Salary,25002
+216,Shepparton,2018,Males,Salary,25855
+216,Shepparton,2019,Males,Salary,27910
+216,Shepparton,2020,Males,Salary,28703
+216,Shepparton,2016,Females,Salary,15796
+216,Shepparton,2017,Females,Salary,17055
+216,Shepparton,2018,Females,Salary,17100
+216,Shepparton,2019,Females,Salary,19388
+216,Shepparton,2020,Females,Salary,20000
+217,Warrnambool and South West,2016,Males,Jobs,52.2
+217,Warrnambool and South West,2017,Males,Jobs,53.1
+217,Warrnambool and South West,2018,Males,Jobs,53.5
+217,Warrnambool and South West,2019,Males,Jobs,53.5
+217,Warrnambool and South West,2020,Males,Jobs,55.3
+217,Warrnambool and South West,2016,Females,Jobs,50.3
+217,Warrnambool and South West,2017,Females,Jobs,50.2
+217,Warrnambool and South West,2018,Females,Jobs,52.8
+217,Warrnambool and South West,2019,Females,Jobs,52.2
+217,Warrnambool and South West,2020,Females,Jobs,54.8
+217,Warrnambool and South West,2016,Males,Salary,22500
+217,Warrnambool and South West,2017,Males,Salary,24009
+217,Warrnambool and South West,2018,Males,Salary,25151
+217,Warrnambool and South West,2019,Males,Salary,26860
+217,Warrnambool and South West,2020,Males,Salary,28711
+217,Warrnambool and South West,2016,Females,Salary,14858
+217,Warrnambool and South West,2017,Females,Salary,16003
+217,Warrnambool and South West,2018,Females,Salary,16220
+217,Warrnambool and South West,2019,Females,Salary,18485
+217,Warrnambool and South West,2020,Females,Salary,19822
+301,Brisbane - East,2016,Males,Jobs,53.5
+301,Brisbane - East,2017,Males,Jobs,53.8
+301,Brisbane - East,2018,Males,Jobs,55.7
+301,Brisbane - East,2019,Males,Jobs,54.4
+301,Brisbane - East,2020,Males,Jobs,54.8
+301,Brisbane - East,2016,Females,Jobs,50.5
+301,Brisbane - East,2017,Females,Jobs,50.8
+301,Brisbane - East,2018,Females,Jobs,53.8
+301,Brisbane - East,2019,Females,Jobs,52.5
+301,Brisbane - East,2020,Females,Jobs,54.1
+301,Brisbane - East,2016,Males,Salary,36673
+301,Brisbane - East,2017,Males,Salary,36717
+301,Brisbane - East,2018,Males,Salary,38751
+301,Brisbane - East,2019,Males,Salary,41033
+301,Brisbane - East,2020,Males,Salary,39876
+301,Brisbane - East,2016,Females,Salary,24380
+301,Brisbane - East,2017,Females,Salary,24985
+301,Brisbane - East,2018,Females,Salary,26230
+301,Brisbane - East,2019,Females,Salary,29167
+301,Brisbane - East,2020,Females,Salary,29040
+302,Brisbane - North,2016,Males,Jobs,2021.6
+302,Brisbane - North,2017,Males,Jobs,2068.8
+302,Brisbane - North,2018,Males,Jobs,2098.6
+302,Brisbane - North,2019,Males,Jobs,2078.1
+302,Brisbane - North,2020,Males,Jobs,2182.2
+302,Brisbane - North,2016,Females,Jobs,1848.8
+302,Brisbane - North,2017,Females,Jobs,1893
+302,Brisbane - North,2018,Females,Jobs,1967.4
+302,Brisbane - North,2019,Females,Jobs,1965.8
+302,Brisbane - North,2020,Females,Jobs,2095.8
+302,Brisbane - North,2016,Males,Salary,34915
+302,Brisbane - North,2017,Males,Salary,36501
+302,Brisbane - North,2018,Males,Salary,37596
+302,Brisbane - North,2019,Males,Salary,39999
+302,Brisbane - North,2020,Males,Salary,38599
+302,Brisbane - North,2016,Females,Salary,26067
+302,Brisbane - North,2017,Females,Salary,27060
+302,Brisbane - North,2018,Females,Salary,28033
+302,Brisbane - North,2019,Females,Salary,30647
+302,Brisbane - North,2020,Females,Salary,29435
+303,Brisbane - South,2016,Males,Jobs,93
+303,Brisbane - South,2017,Males,Jobs,94.8
+303,Brisbane - South,2018,Males,Jobs,95.1
+303,Brisbane - South,2019,Males,Jobs,93.3
+303,Brisbane - South,2020,Males,Jobs,97.3
+303,Brisbane - South,2016,Females,Jobs,88.8
+303,Brisbane - South,2017,Females,Jobs,90.4
+303,Brisbane - South,2018,Females,Jobs,92
+303,Brisbane - South,2019,Females,Jobs,90.7
+303,Brisbane - South,2020,Females,Jobs,95.2
+303,Brisbane - South,2016,Males,Salary,26734
+303,Brisbane - South,2017,Males,Salary,27545
+303,Brisbane - South,2018,Males,Salary,28640
+303,Brisbane - South,2019,Males,Salary,31001
+303,Brisbane - South,2020,Males,Salary,31625
+303,Brisbane - South,2016,Females,Salary,21545
+303,Brisbane - South,2017,Females,Salary,22259
+303,Brisbane - South,2018,Females,Salary,22992
+303,Brisbane - South,2019,Females,Salary,25187
+303,Brisbane - South,2020,Females,Salary,25611
+304,Brisbane - West,2016,Males,Jobs,91.8
+304,Brisbane - West,2017,Males,Jobs,92.9
+304,Brisbane - West,2018,Males,Jobs,94.7
+304,Brisbane - West,2019,Males,Jobs,93.6
+304,Brisbane - West,2020,Males,Jobs,97.8
+304,Brisbane - West,2016,Females,Jobs,87.6
+304,Brisbane - West,2017,Females,Jobs,89.2
+304,Brisbane - West,2018,Females,Jobs,92.5
+304,Brisbane - West,2019,Females,Jobs,91.6
+304,Brisbane - West,2020,Females,Jobs,97.2
+304,Brisbane - West,2016,Males,Salary,38701
+304,Brisbane - West,2017,Males,Salary,39815
+304,Brisbane - West,2018,Males,Salary,41667
+304,Brisbane - West,2019,Males,Salary,44698
+304,Brisbane - West,2020,Males,Salary,44042
+304,Brisbane - West,2016,Females,Salary,22251
+304,Brisbane - West,2017,Females,Salary,23396
+304,Brisbane - West,2018,Females,Salary,24445
+304,Brisbane - West,2019,Females,Salary,27779
+304,Brisbane - West,2020,Females,Salary,27934
+305,Brisbane Inner City,2016,Males,Jobs,154
+305,Brisbane Inner City,2017,Males,Jobs,157.5
+305,Brisbane Inner City,2018,Males,Jobs,161.2
+305,Brisbane Inner City,2019,Males,Jobs,159.2
+305,Brisbane Inner City,2020,Males,Jobs,164.9
+305,Brisbane Inner City,2016,Females,Jobs,142.9
+305,Brisbane Inner City,2017,Females,Jobs,146.2
+305,Brisbane Inner City,2018,Females,Jobs,152.4
+305,Brisbane Inner City,2019,Females,Jobs,152.1
+305,Brisbane Inner City,2020,Females,Jobs,158.8
+305,Brisbane Inner City,2016,Males,Salary,27296
+305,Brisbane Inner City,2017,Males,Salary,27827
+305,Brisbane Inner City,2018,Males,Salary,29076
+305,Brisbane Inner City,2019,Males,Salary,31802
+305,Brisbane Inner City,2020,Males,Salary,32047
+305,Brisbane Inner City,2016,Females,Salary,19279
+305,Brisbane Inner City,2017,Females,Salary,19784
+305,Brisbane Inner City,2018,Females,Salary,20373
+305,Brisbane Inner City,2019,Females,Salary,22755
+305,Brisbane Inner City,2020,Females,Salary,23700
+306,Cairns,2016,Males,Jobs,72.7
+306,Cairns,2017,Males,Jobs,73.5
+306,Cairns,2018,Males,Jobs,74.6
+306,Cairns,2019,Males,Jobs,73.4
+306,Cairns,2020,Males,Jobs,75.4
+306,Cairns,2016,Females,Jobs,73
+306,Cairns,2017,Females,Jobs,74.1
+306,Cairns,2018,Females,Jobs,75.7
+306,Cairns,2019,Females,Jobs,74.5
+306,Cairns,2020,Females,Jobs,77.1
+306,Cairns,2016,Males,Salary,20691
+306,Cairns,2017,Males,Salary,21771
+306,Cairns,2018,Males,Salary,23027
+306,Cairns,2019,Males,Salary,24929
+306,Cairns,2020,Males,Salary,24631
+306,Cairns,2016,Females,Salary,16880
+306,Cairns,2017,Females,Salary,17845
+306,Cairns,2018,Females,Salary,18161
+306,Cairns,2019,Females,Salary,20412
+306,Cairns,2020,Females,Salary,19827
+307,Darling Downs - Maranoa,2016,Males,Jobs,136.3
+307,Darling Downs - Maranoa,2017,Males,Jobs,141.6
+307,Darling Downs - Maranoa,2018,Males,Jobs,146.3
+307,Darling Downs - Maranoa,2019,Males,Jobs,145
+307,Darling Downs - Maranoa,2020,Males,Jobs,148.7
+307,Darling Downs - Maranoa,2016,Females,Jobs,133.8
+307,Darling Downs - Maranoa,2017,Females,Jobs,139.8
+307,Darling Downs - Maranoa,2018,Females,Jobs,147.1
+307,Darling Downs - Maranoa,2019,Females,Jobs,146.1
+307,Darling Downs - Maranoa,2020,Females,Jobs,150.7
+307,Darling Downs - Maranoa,2016,Males,Salary,19756
+307,Darling Downs - Maranoa,2017,Males,Salary,19872
+307,Darling Downs - Maranoa,2018,Males,Salary,21325
+307,Darling Downs - Maranoa,2019,Males,Salary,22962
+307,Darling Downs - Maranoa,2020,Males,Salary,23073
+307,Darling Downs - Maranoa,2016,Females,Salary,13812
+307,Darling Downs - Maranoa,2017,Females,Salary,14121
+307,Darling Downs - Maranoa,2018,Females,Salary,15084
+307,Darling Downs - Maranoa,2019,Females,Salary,16442
+307,Darling Downs - Maranoa,2020,Females,Salary,16384
+308,Central Queensland,2016,Males,Jobs,112
+308,Central Queensland,2017,Males,Jobs,113.3
+308,Central Queensland,2018,Males,Jobs,114.3
+308,Central Queensland,2019,Males,Jobs,111.3
+308,Central Queensland,2020,Males,Jobs,116.4
+308,Central Queensland,2016,Females,Jobs,102.7
+308,Central Queensland,2017,Females,Jobs,103.1
+308,Central Queensland,2018,Females,Jobs,106.4
+308,Central Queensland,2019,Females,Jobs,104.4
+308,Central Queensland,2020,Females,Jobs,110.7
+308,Central Queensland,2016,Males,Salary,33959
+308,Central Queensland,2017,Males,Salary,34012
+308,Central Queensland,2018,Males,Salary,37234
+308,Central Queensland,2019,Males,Salary,39708
+308,Central Queensland,2020,Males,Salary,39167
+308,Central Queensland,2016,Females,Salary,19916
+308,Central Queensland,2017,Females,Salary,20703
+308,Central Queensland,2018,Females,Salary,21610
+308,Central Queensland,2019,Females,Salary,23379
+308,Central Queensland,2020,Females,Salary,22508
+309,Gold Coast,2016,Males,Jobs,57.9
+309,Gold Coast,2017,Males,Jobs,58.1
+309,Gold Coast,2018,Males,Jobs,56.5
+309,Gold Coast,2019,Males,Jobs,54.1
+309,Gold Coast,2020,Males,Jobs,56.6
+309,Gold Coast,2016,Females,Jobs,49.9
+309,Gold Coast,2017,Females,Jobs,50
+309,Gold Coast,2018,Females,Jobs,50
+309,Gold Coast,2019,Females,Jobs,48.6
+309,Gold Coast,2020,Females,Jobs,51.6
+309,Gold Coast,2016,Males,Salary,25383
+309,Gold Coast,2017,Males,Salary,25938
+309,Gold Coast,2018,Males,Salary,26613
+309,Gold Coast,2019,Males,Salary,28097
+309,Gold Coast,2020,Males,Salary,28335
+309,Gold Coast,2016,Females,Salary,18604
+309,Gold Coast,2017,Females,Salary,19303
+309,Gold Coast,2018,Females,Salary,19850
+309,Gold Coast,2019,Females,Salary,21704
+309,Gold Coast,2020,Females,Salary,21698
+310,Ipswich,2016,Males,Jobs,96.3
+310,Ipswich,2017,Males,Jobs,98.4
+310,Ipswich,2018,Males,Jobs,97.5
+310,Ipswich,2019,Males,Jobs,97.2
+310,Ipswich,2020,Males,Jobs,100.3
+310,Ipswich,2016,Females,Jobs,77.2
+310,Ipswich,2017,Females,Jobs,78.5
+310,Ipswich,2018,Females,Jobs,81
+310,Ipswich,2019,Females,Jobs,82.3
+310,Ipswich,2020,Females,Jobs,88.5
+310,Ipswich,2016,Males,Salary,29859
+310,Ipswich,2017,Males,Salary,30647
+310,Ipswich,2018,Males,Salary,32399
+310,Ipswich,2019,Males,Salary,34405
+310,Ipswich,2020,Males,Salary,31828
+310,Ipswich,2016,Females,Salary,22098
+310,Ipswich,2017,Females,Salary,22831
+310,Ipswich,2018,Females,Salary,23834
+310,Ipswich,2019,Females,Salary,26398
+310,Ipswich,2020,Females,Salary,24899
+311,Logan - Beaudesert,2016,Males,Jobs,248.4
+311,Logan - Beaudesert,2017,Males,Jobs,254.3
+311,Logan - Beaudesert,2018,Males,Jobs,259.3
+311,Logan - Beaudesert,2019,Males,Jobs,258.2
+311,Logan - Beaudesert,2020,Males,Jobs,273.4
+311,Logan - Beaudesert,2016,Females,Jobs,239.9
+311,Logan - Beaudesert,2017,Females,Jobs,246.3
+311,Logan - Beaudesert,2018,Females,Jobs,255.4
+311,Logan - Beaudesert,2019,Females,Jobs,256.2
+311,Logan - Beaudesert,2020,Females,Jobs,276.8
+311,Logan - Beaudesert,2016,Males,Salary,28822
+311,Logan - Beaudesert,2017,Males,Salary,29851
+311,Logan - Beaudesert,2018,Males,Salary,31169
+311,Logan - Beaudesert,2019,Males,Salary,33018
+311,Logan - Beaudesert,2020,Males,Salary,30578
+311,Logan - Beaudesert,2016,Females,Salary,22707
+311,Logan - Beaudesert,2017,Females,Salary,23261
+311,Logan - Beaudesert,2018,Females,Salary,24163
+311,Logan - Beaudesert,2019,Females,Salary,26519
+311,Logan - Beaudesert,2020,Females,Salary,24965
+312,Mackay - Isaac - Whitsunday,2016,Males,Jobs,132.1
+312,Mackay - Isaac - Whitsunday,2017,Males,Jobs,137
+312,Mackay - Isaac - Whitsunday,2018,Males,Jobs,140.1
+312,Mackay - Isaac - Whitsunday,2019,Males,Jobs,139
+312,Mackay - Isaac - Whitsunday,2020,Males,Jobs,149.7
+312,Mackay - Isaac - Whitsunday,2016,Females,Jobs,112.3
+312,Mackay - Isaac - Whitsunday,2017,Females,Jobs,116.2
+312,Mackay - Isaac - Whitsunday,2018,Females,Jobs,122.2
+312,Mackay - Isaac - Whitsunday,2019,Females,Jobs,122.8
+312,Mackay - Isaac - Whitsunday,2020,Females,Jobs,133.3
+312,Mackay - Isaac - Whitsunday,2016,Males,Salary,33279
+312,Mackay - Isaac - Whitsunday,2017,Males,Salary,34772
+312,Mackay - Isaac - Whitsunday,2018,Males,Salary,37838
+312,Mackay - Isaac - Whitsunday,2019,Males,Salary,40113
+312,Mackay - Isaac - Whitsunday,2020,Males,Salary,39499
+312,Mackay - Isaac - Whitsunday,2016,Females,Salary,18288
+312,Mackay - Isaac - Whitsunday,2017,Females,Salary,19092
+312,Mackay - Isaac - Whitsunday,2018,Females,Salary,19961
+312,Mackay - Isaac - Whitsunday,2019,Females,Salary,21356
+312,Mackay - Isaac - Whitsunday,2020,Females,Salary,20789
+313,Moreton Bay - North,2016,Males,Jobs,134.5
+313,Moreton Bay - North,2017,Males,Jobs,137.4
+313,Moreton Bay - North,2018,Males,Jobs,138.6
+313,Moreton Bay - North,2019,Males,Jobs,137.5
+313,Moreton Bay - North,2020,Males,Jobs,148.2
+313,Moreton Bay - North,2016,Females,Jobs,109.5
+313,Moreton Bay - North,2017,Females,Jobs,112.4
+313,Moreton Bay - North,2018,Females,Jobs,116.9
+313,Moreton Bay - North,2019,Females,Jobs,117.2
+313,Moreton Bay - North,2020,Females,Jobs,126.5
+313,Moreton Bay - North,2016,Males,Salary,27664
+313,Moreton Bay - North,2017,Males,Salary,28875
+313,Moreton Bay - North,2018,Males,Salary,29965
+313,Moreton Bay - North,2019,Males,Salary,32548
+313,Moreton Bay - North,2020,Males,Salary,30159
+313,Moreton Bay - North,2016,Females,Salary,20093
+313,Moreton Bay - North,2017,Females,Salary,20977
+313,Moreton Bay - North,2018,Females,Salary,21139
+313,Moreton Bay - North,2019,Females,Salary,23313
+313,Moreton Bay - North,2020,Females,Salary,22831
+314,Moreton Bay - South,2016,Males,Jobs,81.1
+314,Moreton Bay - South,2017,Males,Jobs,84.6
+314,Moreton Bay - South,2018,Males,Jobs,84.3
+314,Moreton Bay - South,2019,Males,Jobs,84.9
+314,Moreton Bay - South,2020,Males,Jobs,87.2
+314,Moreton Bay - South,2016,Females,Jobs,65.1
+314,Moreton Bay - South,2017,Females,Jobs,68.7
+314,Moreton Bay - South,2018,Females,Jobs,71.3
+314,Moreton Bay - South,2019,Females,Jobs,72
+314,Moreton Bay - South,2020,Females,Jobs,77.7
+314,Moreton Bay - South,2016,Males,Salary,37501
+314,Moreton Bay - South,2017,Males,Salary,38179
+314,Moreton Bay - South,2018,Males,Salary,39156
+314,Moreton Bay - South,2019,Males,Salary,41607
+314,Moreton Bay - South,2020,Males,Salary,39749
+314,Moreton Bay - South,2016,Females,Salary,23764
+314,Moreton Bay - South,2017,Females,Salary,25205
+314,Moreton Bay - South,2018,Females,Salary,26019
+314,Moreton Bay - South,2019,Females,Salary,28764
+314,Moreton Bay - South,2020,Females,Salary,27776
+315,Queensland - Outback,2016,Males,Jobs,90.4
+315,Queensland - Outback,2017,Males,Jobs,91.9
+315,Queensland - Outback,2018,Males,Jobs,94.1
+315,Queensland - Outback,2019,Males,Jobs,93.7
+315,Queensland - Outback,2020,Males,Jobs,100.7
+315,Queensland - Outback,2016,Females,Jobs,80
+315,Queensland - Outback,2017,Females,Jobs,81.7
+315,Queensland - Outback,2018,Females,Jobs,86.7
+315,Queensland - Outback,2019,Females,Jobs,87.9
+315,Queensland - Outback,2020,Females,Jobs,94.4
+315,Queensland - Outback,2016,Males,Salary,26437
+315,Queensland - Outback,2017,Males,Salary,27021
+315,Queensland - Outback,2018,Males,Salary,28714
+315,Queensland - Outback,2019,Males,Salary,31725
+315,Queensland - Outback,2020,Males,Salary,32278
+315,Queensland - Outback,2016,Females,Salary,16551
+315,Queensland - Outback,2017,Females,Salary,17892
+315,Queensland - Outback,2018,Females,Salary,18320
+315,Queensland - Outback,2019,Females,Salary,21295
+315,Queensland - Outback,2020,Females,Salary,20500
+316,Sunshine Coast,2016,Males,Jobs,84.1
+316,Sunshine Coast,2017,Males,Jobs,85.9
+316,Sunshine Coast,2018,Males,Jobs,88.1
+316,Sunshine Coast,2019,Males,Jobs,87.2
+316,Sunshine Coast,2020,Males,Jobs,91.5
+316,Sunshine Coast,2016,Females,Jobs,79
+316,Sunshine Coast,2017,Females,Jobs,80.8
+316,Sunshine Coast,2018,Females,Jobs,84.4
+316,Sunshine Coast,2019,Females,Jobs,84
+316,Sunshine Coast,2020,Females,Jobs,89.3
+316,Sunshine Coast,2016,Males,Salary,25001
+316,Sunshine Coast,2017,Males,Salary,26217
+316,Sunshine Coast,2018,Males,Salary,27634
+316,Sunshine Coast,2019,Males,Salary,29285
+316,Sunshine Coast,2020,Males,Salary,29029
+316,Sunshine Coast,2016,Females,Salary,17486
+316,Sunshine Coast,2017,Females,Salary,18484
+316,Sunshine Coast,2018,Females,Salary,18916
+316,Sunshine Coast,2019,Females,Salary,20643
+316,Sunshine Coast,2020,Females,Salary,20532
+317,Toowoomba,2016,Males,Jobs,33.7
+317,Toowoomba,2017,Males,Jobs,34.4
+317,Toowoomba,2018,Males,Jobs,34.2
+317,Toowoomba,2019,Males,Jobs,33.6
+317,Toowoomba,2020,Males,Jobs,34.1
+317,Toowoomba,2016,Females,Jobs,30.6
+317,Toowoomba,2017,Females,Jobs,30.6
+317,Toowoomba,2018,Females,Jobs,31.1
+317,Toowoomba,2019,Females,Jobs,30.5
+317,Toowoomba,2020,Females,Jobs,31.7
+317,Toowoomba,2016,Males,Salary,25791
+317,Toowoomba,2017,Males,Salary,26585
+317,Toowoomba,2018,Males,Salary,28315
+317,Toowoomba,2019,Males,Salary,29883
+317,Toowoomba,2020,Males,Salary,28575
+317,Toowoomba,2016,Females,Salary,17813
+317,Toowoomba,2017,Females,Salary,19096
+317,Toowoomba,2018,Females,Salary,19630
+317,Toowoomba,2019,Females,Salary,21758
+317,Toowoomba,2020,Females,Salary,21166
+318,Townsville,2016,Males,Jobs,140.8
+318,Townsville,2017,Males,Jobs,144
+318,Townsville,2018,Males,Jobs,146.9
+318,Townsville,2019,Males,Jobs,148.2
+318,Townsville,2020,Males,Jobs,159.3
+318,Townsville,2016,Females,Jobs,138.4
+318,Townsville,2017,Females,Jobs,142
+318,Townsville,2018,Females,Jobs,149.4
+318,Townsville,2019,Females,Jobs,152.4
+318,Townsville,2020,Females,Jobs,166.5
+318,Townsville,2016,Males,Salary,31128
+318,Townsville,2017,Males,Salary,31593
+318,Townsville,2018,Males,Salary,32117
+318,Townsville,2019,Males,Salary,34436
+318,Townsville,2020,Males,Salary,34585
+318,Townsville,2016,Females,Salary,20978
+318,Townsville,2017,Females,Salary,21806
+318,Townsville,2018,Females,Salary,21835
+318,Townsville,2019,Females,Salary,23992
+318,Townsville,2020,Females,Salary,23148
+319,Wide Bay,2016,Males,Jobs,63.4
+319,Wide Bay,2017,Males,Jobs,65.1
+319,Wide Bay,2018,Males,Jobs,65.7
+319,Wide Bay,2019,Males,Jobs,64.6
+319,Wide Bay,2020,Males,Jobs,68.3
+319,Wide Bay,2016,Females,Jobs,59.4
+319,Wide Bay,2017,Females,Jobs,60.6
+319,Wide Bay,2018,Females,Jobs,63.2
+319,Wide Bay,2019,Females,Jobs,62.7
+319,Wide Bay,2020,Females,Jobs,66.8
+319,Wide Bay,2016,Males,Salary,20777
+319,Wide Bay,2017,Males,Salary,21160
+319,Wide Bay,2018,Males,Salary,22624
+319,Wide Bay,2019,Males,Salary,24437
+319,Wide Bay,2020,Males,Salary,24500
+319,Wide Bay,2016,Females,Salary,16291
+319,Wide Bay,2017,Females,Salary,16754
+319,Wide Bay,2018,Females,Salary,17190
+319,Wide Bay,2019,Females,Salary,19023
+319,Wide Bay,2020,Females,Salary,18885
+401,Adelaide - Central and Hills,2016,Males,Jobs,98.2
+401,Adelaide - Central and Hills,2017,Males,Jobs,100.8
+401,Adelaide - Central and Hills,2018,Males,Jobs,102.4
+401,Adelaide - Central and Hills,2019,Males,Jobs,101.1
+401,Adelaide - Central and Hills,2020,Males,Jobs,103.4
+401,Adelaide - Central and Hills,2016,Females,Jobs,88.5
+401,Adelaide - Central and Hills,2017,Females,Jobs,90
+401,Adelaide - Central and Hills,2018,Females,Jobs,92.9
+401,Adelaide - Central and Hills,2019,Females,Jobs,93.2
+401,Adelaide - Central and Hills,2020,Females,Jobs,98.7
+401,Adelaide - Central and Hills,2016,Males,Salary,31635
+401,Adelaide - Central and Hills,2017,Males,Salary,31904
+401,Adelaide - Central and Hills,2018,Males,Salary,32916
+401,Adelaide - Central and Hills,2019,Males,Salary,33590
+401,Adelaide - Central and Hills,2020,Males,Salary,34320
+401,Adelaide - Central and Hills,2016,Females,Salary,21868
+401,Adelaide - Central and Hills,2017,Females,Salary,22000
+401,Adelaide - Central and Hills,2018,Females,Salary,22661
+401,Adelaide - Central and Hills,2019,Females,Salary,24229
+401,Adelaide - Central and Hills,2020,Females,Salary,24834
+402,Adelaide - North,2016,Males,Jobs,100.4
+402,Adelaide - North,2017,Males,Jobs,103
+402,Adelaide - North,2018,Males,Jobs,104.4
+402,Adelaide - North,2019,Males,Jobs,102.8
+402,Adelaide - North,2020,Males,Jobs,108.8
+402,Adelaide - North,2016,Females,Jobs,89.9
+402,Adelaide - North,2017,Females,Jobs,92.2
+402,Adelaide - North,2018,Females,Jobs,96.5
+402,Adelaide - North,2019,Females,Jobs,96.5
+402,Adelaide - North,2020,Females,Jobs,104
+402,Adelaide - North,2016,Males,Salary,33657
+402,Adelaide - North,2017,Males,Salary,33341
+402,Adelaide - North,2018,Males,Salary,34698
+402,Adelaide - North,2019,Males,Salary,35456
+402,Adelaide - North,2020,Males,Salary,34151
+402,Adelaide - North,2016,Females,Salary,23495
+402,Adelaide - North,2017,Females,Salary,23935
+402,Adelaide - North,2018,Females,Salary,24737
+402,Adelaide - North,2019,Females,Salary,26474
+402,Adelaide - North,2020,Females,Salary,25613
+403,Adelaide - South,2016,Males,Jobs,640.4
+403,Adelaide - South,2017,Males,Jobs,659.2
+403,Adelaide - South,2018,Males,Jobs,666.8
+403,Adelaide - South,2019,Males,Jobs,667.4
+403,Adelaide - South,2020,Males,Jobs,699.5
+403,Adelaide - South,2016,Females,Jobs,604.5
+403,Adelaide - South,2017,Females,Jobs,620.6
+403,Adelaide - South,2018,Females,Jobs,636.8
+403,Adelaide - South,2019,Females,Jobs,639.9
+403,Adelaide - South,2020,Females,Jobs,676.8
+403,Adelaide - South,2016,Males,Salary,33800
+403,Adelaide - South,2017,Males,Salary,34791
+403,Adelaide - South,2018,Males,Salary,35828
+403,Adelaide - South,2019,Males,Salary,37509
+403,Adelaide - South,2020,Males,Salary,37073
+403,Adelaide - South,2016,Females,Salary,23356
+403,Adelaide - South,2017,Females,Salary,23812
+403,Adelaide - South,2018,Females,Salary,24490
+403,Adelaide - South,2019,Females,Salary,26759
+403,Adelaide - South,2020,Females,Salary,26849
+404,Adelaide - West,2016,Males,Jobs,114.1
+404,Adelaide - West,2017,Males,Jobs,116.6
+404,Adelaide - West,2018,Males,Jobs,118.8
+404,Adelaide - West,2019,Males,Jobs,120.4
+404,Adelaide - West,2020,Males,Jobs,125.4
+404,Adelaide - West,2016,Females,Jobs,115.6
+404,Adelaide - West,2017,Females,Jobs,118
+404,Adelaide - West,2018,Females,Jobs,121.3
+404,Adelaide - West,2019,Females,Jobs,122.5
+404,Adelaide - West,2020,Females,Jobs,129.3
+404,Adelaide - West,2016,Males,Salary,29956
+404,Adelaide - West,2017,Males,Salary,30482
+404,Adelaide - West,2018,Males,Salary,31402
+404,Adelaide - West,2019,Males,Salary,32755
+404,Adelaide - West,2020,Males,Salary,32793
+404,Adelaide - West,2016,Females,Salary,23069
+404,Adelaide - West,2017,Females,Salary,23708
+404,Adelaide - West,2018,Females,Salary,24239
+404,Adelaide - West,2019,Females,Salary,26046
+404,Adelaide - West,2020,Females,Salary,25751
+405,Barossa - Yorke - Mid North,2016,Males,Jobs,155.6
+405,Barossa - Yorke - Mid North,2017,Males,Jobs,162.6
+405,Barossa - Yorke - Mid North,2018,Males,Jobs,165.1
+405,Barossa - Yorke - Mid North,2019,Males,Jobs,166.5
+405,Barossa - Yorke - Mid North,2020,Males,Jobs,177.3
+405,Barossa - Yorke - Mid North,2016,Females,Jobs,138.3
+405,Barossa - Yorke - Mid North,2017,Females,Jobs,142.8
+405,Barossa - Yorke - Mid North,2018,Females,Jobs,147.4
+405,Barossa - Yorke - Mid North,2019,Females,Jobs,148.4
+405,Barossa - Yorke - Mid North,2020,Females,Jobs,158.1
+405,Barossa - Yorke - Mid North,2016,Males,Salary,26775
+405,Barossa - Yorke - Mid North,2017,Males,Salary,27052
+405,Barossa - Yorke - Mid North,2018,Males,Salary,27584
+405,Barossa - Yorke - Mid North,2019,Males,Salary,28489
+405,Barossa - Yorke - Mid North,2020,Males,Salary,30103
+405,Barossa - Yorke - Mid North,2016,Females,Salary,18775
+405,Barossa - Yorke - Mid North,2017,Females,Salary,19023
+405,Barossa - Yorke - Mid North,2018,Females,Salary,19159
+405,Barossa - Yorke - Mid North,2019,Females,Salary,20613
+405,Barossa - Yorke - Mid North,2020,Females,Salary,21311
+406,South Australia - Outback,2016,Males,Jobs,133.5
+406,South Australia - Outback,2017,Males,Jobs,135.9
+406,South Australia - Outback,2018,Males,Jobs,137.5
+406,South Australia - Outback,2019,Males,Jobs,137.2
+406,South Australia - Outback,2020,Males,Jobs,142.6
+406,South Australia - Outback,2016,Females,Jobs,133.3
+406,South Australia - Outback,2017,Females,Jobs,137.2
+406,South Australia - Outback,2018,Females,Jobs,140.3
+406,South Australia - Outback,2019,Females,Jobs,140.4
+406,South Australia - Outback,2020,Females,Jobs,147.1
+406,South Australia - Outback,2016,Males,Salary,29557
+406,South Australia - Outback,2017,Males,Salary,28539
+406,South Australia - Outback,2018,Males,Salary,30740
+406,South Australia - Outback,2019,Males,Salary,32591
+406,South Australia - Outback,2020,Males,Salary,29012
+406,South Australia - Outback,2016,Females,Salary,19656
+406,South Australia - Outback,2017,Females,Salary,19269
+406,South Australia - Outback,2018,Females,Salary,20416
+406,South Australia - Outback,2019,Females,Salary,21731
+406,South Australia - Outback,2020,Females,Salary,20730
+407,South Australia - South East,2016,Males,Jobs,89.3
+407,South Australia - South East,2017,Males,Jobs,92.8
+407,South Australia - South East,2018,Males,Jobs,95.7
+407,South Australia - South East,2019,Males,Jobs,96.2
+407,South Australia - South East,2020,Males,Jobs,101.2
+407,South Australia - South East,2016,Females,Jobs,86
+407,South Australia - South East,2017,Females,Jobs,88.6
+407,South Australia - South East,2018,Females,Jobs,92.1
+407,South Australia - South East,2019,Females,Jobs,93.4
+407,South Australia - South East,2020,Females,Jobs,99.6
+407,South Australia - South East,2016,Males,Salary,22003
+407,South Australia - South East,2017,Males,Salary,22591
+407,South Australia - South East,2018,Males,Salary,24119
+407,South Australia - South East,2019,Males,Salary,25350
+407,South Australia - South East,2020,Males,Salary,25793
+407,South Australia - South East,2016,Females,Salary,16077
+407,South Australia - South East,2017,Females,Salary,16561
+407,South Australia - South East,2018,Females,Salary,17376
+407,South Australia - South East,2019,Females,Salary,18874
+407,South Australia - South East,2020,Females,Salary,19061
+501,Bunbury,2016,Males,Jobs,41.7
+501,Bunbury,2017,Males,Jobs,42.1
+501,Bunbury,2018,Males,Jobs,41.4
+501,Bunbury,2019,Males,Jobs,41
+501,Bunbury,2020,Males,Jobs,42.3
+501,Bunbury,2016,Females,Jobs,37
+501,Bunbury,2017,Females,Jobs,37.4
+501,Bunbury,2018,Females,Jobs,38
+501,Bunbury,2019,Females,Jobs,37.9
+501,Bunbury,2020,Females,Jobs,39.8
+501,Bunbury,2016,Males,Salary,27717
+501,Bunbury,2017,Males,Salary,28057
+501,Bunbury,2018,Males,Salary,29311
+501,Bunbury,2019,Males,Salary,31599
+501,Bunbury,2020,Males,Salary,32913
+501,Bunbury,2016,Females,Salary,15168
+501,Bunbury,2017,Females,Salary,15706
+501,Bunbury,2018,Females,Salary,15925
+501,Bunbury,2019,Females,Salary,17611
+501,Bunbury,2020,Females,Salary,17746
+502,Mandurah,2016,Males,Jobs,31.7
+502,Mandurah,2017,Males,Jobs,32.7
+502,Mandurah,2018,Males,Jobs,32.7
+502,Mandurah,2019,Males,Jobs,31.7
+502,Mandurah,2020,Males,Jobs,33.6
+502,Mandurah,2016,Females,Jobs,27.4
+502,Mandurah,2017,Females,Jobs,28.3
+502,Mandurah,2018,Females,Jobs,28.7
+502,Mandurah,2019,Females,Jobs,28.3
+502,Mandurah,2020,Females,Jobs,30
+502,Mandurah,2016,Males,Salary,33456
+502,Mandurah,2017,Males,Salary,33999
+502,Mandurah,2018,Males,Salary,36728
+502,Mandurah,2019,Males,Salary,39200
+502,Mandurah,2020,Males,Salary,38995
+502,Mandurah,2016,Females,Salary,18791
+502,Mandurah,2017,Females,Salary,19742
+502,Mandurah,2018,Females,Salary,19950
+502,Mandurah,2019,Females,Salary,22185
+502,Mandurah,2020,Females,Salary,21110
+503,Perth - Inner,2016,Males,Jobs,74.4
+503,Perth - Inner,2017,Males,Jobs,76.4
+503,Perth - Inner,2018,Males,Jobs,75.6
+503,Perth - Inner,2019,Males,Jobs,74.5
+503,Perth - Inner,2020,Males,Jobs,77
+503,Perth - Inner,2016,Females,Jobs,66.8
+503,Perth - Inner,2017,Females,Jobs,68.3
+503,Perth - Inner,2018,Females,Jobs,69.1
+503,Perth - Inner,2019,Females,Jobs,69
+503,Perth - Inner,2020,Females,Jobs,73
+503,Perth - Inner,2016,Males,Salary,29685
+503,Perth - Inner,2017,Males,Salary,31136
+503,Perth - Inner,2018,Males,Salary,32086
+503,Perth - Inner,2019,Males,Salary,33582
+503,Perth - Inner,2020,Males,Salary,34736
+503,Perth - Inner,2016,Females,Salary,18060
+503,Perth - Inner,2017,Females,Salary,19365
+503,Perth - Inner,2018,Females,Salary,19725
+503,Perth - Inner,2019,Females,Salary,21758
+503,Perth - Inner,2020,Females,Salary,22083
+504,Perth - North East,2016,Males,Jobs,1118.6
+504,Perth - North East,2017,Males,Jobs,1126.8
+504,Perth - North East,2018,Males,Jobs,1139.9
+504,Perth - North East,2019,Males,Jobs,1142.7
+504,Perth - North East,2020,Males,Jobs,1213.8
+504,Perth - North East,2016,Females,Jobs,972.5
+504,Perth - North East,2017,Females,Jobs,971.4
+504,Perth - North East,2018,Females,Jobs,1005.1
+504,Perth - North East,2019,Females,Jobs,1008.9
+504,Perth - North East,2020,Females,Jobs,1097.2
+504,Perth - North East,2016,Males,Salary,35337
+504,Perth - North East,2017,Males,Salary,35707
+504,Perth - North East,2018,Males,Salary,36752
+504,Perth - North East,2019,Males,Salary,39124
+504,Perth - North East,2020,Males,Salary,37633
+504,Perth - North East,2016,Females,Salary,23304
+504,Perth - North East,2017,Females,Salary,24161
+504,Perth - North East,2018,Females,Salary,23825
+504,Perth - North East,2019,Females,Salary,26307
+504,Perth - North East,2020,Females,Salary,24901
+505,Perth - North West,2016,Males,Jobs,79.8
+505,Perth - North West,2017,Males,Jobs,80.6
+505,Perth - North West,2018,Males,Jobs,81.4
+505,Perth - North West,2019,Males,Jobs,80.7
+505,Perth - North West,2020,Males,Jobs,85
+505,Perth - North West,2016,Females,Jobs,70.6
+505,Perth - North West,2017,Females,Jobs,71
+505,Perth - North West,2018,Females,Jobs,73.3
+505,Perth - North West,2019,Females,Jobs,73.5
+505,Perth - North West,2020,Females,Jobs,80.3
+505,Perth - North West,2016,Males,Salary,34676
+505,Perth - North West,2017,Males,Salary,35342
+505,Perth - North West,2018,Males,Salary,36372
+505,Perth - North West,2019,Males,Salary,37919
+505,Perth - North West,2020,Males,Salary,37894
+505,Perth - North West,2016,Females,Salary,21927
+505,Perth - North West,2017,Females,Salary,22683
+505,Perth - North West,2018,Females,Salary,23095
+505,Perth - North West,2019,Females,Salary,25506
+505,Perth - North West,2020,Females,Salary,24694
+506,Perth - South East,2016,Males,Jobs,38.9
+506,Perth - South East,2017,Males,Jobs,39.7
+506,Perth - South East,2018,Males,Jobs,40
+506,Perth - South East,2019,Males,Jobs,39.7
+506,Perth - South East,2020,Males,Jobs,42.6
+506,Perth - South East,2016,Females,Jobs,31.6
+506,Perth - South East,2017,Females,Jobs,31.7
+506,Perth - South East,2018,Females,Jobs,33.1
+506,Perth - South East,2019,Females,Jobs,33.2
+506,Perth - South East,2020,Females,Jobs,37.1
+506,Perth - South East,2016,Males,Salary,30650
+506,Perth - South East,2017,Males,Salary,31672
+506,Perth - South East,2018,Males,Salary,32842
+506,Perth - South East,2019,Males,Salary,34713
+506,Perth - South East,2020,Males,Salary,33561
+506,Perth - South East,2016,Females,Salary,21600
+506,Perth - South East,2017,Females,Salary,22733
+506,Perth - South East,2018,Females,Salary,22627
+506,Perth - South East,2019,Females,Salary,24696
+506,Perth - South East,2020,Females,Salary,23157
+507,Perth - South West,2016,Males,Jobs,86.6
+507,Perth - South West,2017,Males,Jobs,85.6
+507,Perth - South West,2018,Males,Jobs,86.3
+507,Perth - South West,2019,Males,Jobs,87.2
+507,Perth - South West,2020,Males,Jobs,90.3
+507,Perth - South West,2016,Females,Jobs,79.3
+507,Perth - South West,2017,Females,Jobs,78.5
+507,Perth - South West,2018,Females,Jobs,80.4
+507,Perth - South West,2019,Females,Jobs,80.6
+507,Perth - South West,2020,Females,Jobs,86.1
+507,Perth - South West,2016,Males,Salary,35785
+507,Perth - South West,2017,Males,Salary,36200
+507,Perth - South West,2018,Males,Salary,38357
+507,Perth - South West,2019,Males,Salary,40496
+507,Perth - South West,2020,Males,Salary,39819
+507,Perth - South West,2016,Females,Salary,21202
+507,Perth - South West,2017,Females,Salary,22486
+507,Perth - South West,2018,Females,Salary,22643
+507,Perth - South West,2019,Females,Salary,25184
+507,Perth - South West,2020,Females,Salary,24101
+509,Western Australia - Wheat Belt,2016,Males,Jobs,112.1
+509,Western Australia - Wheat Belt,2017,Males,Jobs,113.9
+509,Western Australia - Wheat Belt,2018,Males,Jobs,116.5
+509,Western Australia - Wheat Belt,2019,Males,Jobs,117.8
+509,Western Australia - Wheat Belt,2020,Males,Jobs,127
+509,Western Australia - Wheat Belt,2016,Females,Jobs,97.2
+509,Western Australia - Wheat Belt,2017,Females,Jobs,97.6
+509,Western Australia - Wheat Belt,2018,Females,Jobs,102.7
+509,Western Australia - Wheat Belt,2019,Females,Jobs,103.6
+509,Western Australia - Wheat Belt,2020,Females,Jobs,113.5
+509,Western Australia - Wheat Belt,2016,Males,Salary,25109
+509,Western Australia - Wheat Belt,2017,Males,Salary,26545
+509,Western Australia - Wheat Belt,2018,Males,Salary,27538
+509,Western Australia - Wheat Belt,2019,Males,Salary,27469
+509,Western Australia - Wheat Belt,2020,Males,Salary,27499
+509,Western Australia - Wheat Belt,2016,Females,Salary,15827
+509,Western Australia - Wheat Belt,2017,Females,Salary,17092
+509,Western Australia - Wheat Belt,2018,Females,Salary,17469
+509,Western Australia - Wheat Belt,2019,Females,Salary,17487
+509,Western Australia - Wheat Belt,2020,Females,Salary,17451
+510,Western Australia - Outback (North),2016,Males,Jobs,239.1
+510,Western Australia - Outback (North),2017,Males,Jobs,240.5
+510,Western Australia - Outback (North),2018,Males,Jobs,244.3
+510,Western Australia - Outback (North),2019,Males,Jobs,245.6
+510,Western Australia - Outback (North),2020,Males,Jobs,260.7
+510,Western Australia - Outback (North),2016,Females,Jobs,218.3
+510,Western Australia - Outback (North),2017,Females,Jobs,218.5
+510,Western Australia - Outback (North),2018,Females,Jobs,225.1
+510,Western Australia - Outback (North),2019,Females,Jobs,225.7
+510,Western Australia - Outback (North),2020,Females,Jobs,243.9
+510,Western Australia - Outback (North),2016,Males,Salary,33136
+510,Western Australia - Outback (North),2017,Males,Salary,35723
+510,Western Australia - Outback (North),2018,Males,Salary,37816
+510,Western Australia - Outback (North),2019,Males,Salary,41586
+510,Western Australia - Outback (North),2020,Males,Salary,40775
+510,Western Australia - Outback (North),2016,Females,Salary,16273
+510,Western Australia - Outback (North),2017,Females,Salary,17670
+510,Western Australia - Outback (North),2018,Females,Salary,18448
+510,Western Australia - Outback (North),2019,Females,Salary,20636
+510,Western Australia - Outback (North),2020,Females,Salary,19419
+511,Western Australia - Outback (South),2016,Males,Jobs,226
+511,Western Australia - Outback (South),2017,Males,Jobs,227.5
+511,Western Australia - Outback (South),2018,Males,Jobs,231.8
+511,Western Australia - Outback (South),2019,Males,Jobs,232.7
+511,Western Australia - Outback (South),2020,Males,Jobs,251.4
+511,Western Australia - Outback (South),2016,Females,Jobs,184.1
+511,Western Australia - Outback (South),2017,Females,Jobs,184.1
+511,Western Australia - Outback (South),2018,Females,Jobs,191.6
+511,Western Australia - Outback (South),2019,Females,Jobs,192.4
+511,Western Australia - Outback (South),2020,Females,Jobs,212.1
+511,Western Australia - Outback (South),2016,Males,Salary,32750
+511,Western Australia - Outback (South),2017,Males,Salary,32002
+511,Western Australia - Outback (South),2018,Males,Salary,34751
+511,Western Australia - Outback (South),2019,Males,Salary,35631
+511,Western Australia - Outback (South),2020,Males,Salary,35500
+511,Western Australia - Outback (South),2016,Females,Salary,17478
+511,Western Australia - Outback (South),2017,Females,Salary,18406
+511,Western Australia - Outback (South),2018,Females,Salary,19088
+511,Western Australia - Outback (South),2019,Females,Salary,20270
+511,Western Australia - Outback (South),2020,Females,Salary,18900
+601,Hobart,2016,Males,Jobs,183.1
+601,Hobart,2017,Males,Jobs,186.3
+601,Hobart,2018,Males,Jobs,187.6
+601,Hobart,2019,Males,Jobs,188.2
+601,Hobart,2020,Males,Jobs,200.7
+601,Hobart,2016,Females,Jobs,158.8
+601,Hobart,2017,Females,Jobs,158.9
+601,Hobart,2018,Females,Jobs,165.4
+601,Hobart,2019,Females,Jobs,166.6
+601,Hobart,2020,Females,Jobs,181.3
+601,Hobart,2016,Males,Salary,30001
+601,Hobart,2017,Males,Salary,29413
+601,Hobart,2018,Males,Salary,29982
+601,Hobart,2019,Males,Salary,30987
+601,Hobart,2020,Males,Salary,29526
+601,Hobart,2016,Females,Salary,21398
+601,Hobart,2017,Females,Salary,21529
+601,Hobart,2018,Females,Salary,22727
+601,Hobart,2019,Females,Salary,24664
+601,Hobart,2020,Females,Salary,23865
+602,Launceston and North East,2016,Males,Jobs,59.3
+602,Launceston and North East,2017,Males,Jobs,59
+602,Launceston and North East,2018,Males,Jobs,59
+602,Launceston and North East,2019,Males,Jobs,58.5
+602,Launceston and North East,2020,Males,Jobs,60.4
+602,Launceston and North East,2016,Females,Jobs,52.9
+602,Launceston and North East,2017,Females,Jobs,51.9
+602,Launceston and North East,2018,Females,Jobs,52.7
+602,Launceston and North East,2019,Females,Jobs,52.9
+602,Launceston and North East,2020,Females,Jobs,55.9
+602,Launceston and North East,2016,Males,Salary,26333
+602,Launceston and North East,2017,Males,Salary,26355
+602,Launceston and North East,2018,Males,Salary,28200
+602,Launceston and North East,2019,Males,Salary,29674
+602,Launceston and North East,2020,Males,Salary,29003
+602,Launceston and North East,2016,Females,Salary,18454
+602,Launceston and North East,2017,Females,Salary,18830
+602,Launceston and North East,2018,Females,Salary,19485
+602,Launceston and North East,2019,Females,Salary,21585
+602,Launceston and North East,2020,Females,Salary,21670
+603,South East,2016,Males,Jobs,40.2
+603,South East,2017,Males,Jobs,40.1
+603,South East,2018,Males,Jobs,39.9
+603,South East,2019,Males,Jobs,40.2
+603,South East,2020,Males,Jobs,41.1
+603,South East,2016,Females,Jobs,34.6
+603,South East,2017,Females,Jobs,34.5
+603,South East,2018,Females,Jobs,35.6
+603,South East,2019,Females,Jobs,35.8
+603,South East,2020,Females,Jobs,38.4
+603,South East,2016,Males,Salary,21124
+603,South East,2017,Males,Salary,20800
+603,South East,2018,Males,Salary,23640
+603,South East,2019,Males,Salary,25561
+603,South East,2020,Males,Salary,27082
+603,South East,2016,Females,Salary,14391
+603,South East,2017,Females,Salary,15257
+603,South East,2018,Females,Salary,16678
+603,South East,2019,Females,Salary,18109
+603,South East,2020,Females,Salary,19712
+604,West and North West,2016,Males,Jobs,53.5
+604,West and North West,2017,Males,Jobs,53.6
+604,West and North West,2018,Males,Jobs,53.2
+604,West and North West,2019,Males,Jobs,52
+604,West and North West,2020,Males,Jobs,54.6
+604,West and North West,2016,Females,Jobs,45.2
+604,West and North West,2017,Females,Jobs,44.6
+604,West and North West,2018,Females,Jobs,45.3
+604,West and North West,2019,Females,Jobs,44.8
+604,West and North West,2020,Females,Jobs,48.7
+604,West and North West,2016,Males,Salary,28182
+604,West and North West,2017,Males,Salary,29003
+604,West and North West,2018,Males,Salary,31612
+604,West and North West,2019,Males,Salary,33346
+604,West and North West,2020,Males,Salary,32616
+604,West and North West,2016,Females,Salary,17393
+604,West and North West,2017,Females,Salary,18407
+604,West and North West,2018,Females,Salary,18566
+604,West and North West,2019,Females,Salary,21109
+604,West and North West,2020,Females,Salary,20500
+701,Darwin,2016,Males,Jobs,196
+701,Darwin,2017,Males,Jobs,203
+701,Darwin,2018,Males,Jobs,208
+701,Darwin,2019,Males,Jobs,210
+701,Darwin,2020,Males,Jobs,224.2
+701,Darwin,2016,Females,Jobs,191
+701,Darwin,2017,Females,Jobs,194.8
+701,Darwin,2018,Females,Jobs,201.8
+701,Darwin,2019,Females,Jobs,202.5
+701,Darwin,2020,Females,Jobs,217.1
+701,Darwin,2016,Males,Salary,32603
+701,Darwin,2017,Males,Salary,33945
+701,Darwin,2018,Males,Salary,32897
+701,Darwin,2019,Males,Salary,34291
+701,Darwin,2020,Males,Salary,32727
+701,Darwin,2016,Females,Salary,21084
+701,Darwin,2017,Females,Salary,22317
+701,Darwin,2018,Females,Salary,23516
+701,Darwin,2019,Females,Salary,27075
+701,Darwin,2020,Females,Salary,25538
+702,Northern Territory - Outback,2016,Males,Jobs,86.2
+702,Northern Territory - Outback,2017,Males,Jobs,89.7
+702,Northern Territory - Outback,2018,Males,Jobs,93.8
+702,Northern Territory - Outback,2019,Males,Jobs,95.1
+702,Northern Territory - Outback,2020,Males,Jobs,102.6
+702,Northern Territory - Outback,2016,Females,Jobs,87.6
+702,Northern Territory - Outback,2017,Females,Jobs,89.8
+702,Northern Territory - Outback,2018,Females,Jobs,93.1
+702,Northern Territory - Outback,2019,Females,Jobs,93.8
+702,Northern Territory - Outback,2020,Females,Jobs,101.5
+702,Northern Territory - Outback,2016,Males,Salary,19433
+702,Northern Territory - Outback,2017,Males,Salary,20206
+702,Northern Territory - Outback,2018,Males,Salary,22952
+702,Northern Territory - Outback,2019,Males,Salary,24535
+702,Northern Territory - Outback,2020,Males,Salary,24104
+702,Northern Territory - Outback,2016,Females,Salary,15265
+702,Northern Territory - Outback,2017,Females,Salary,16534
+702,Northern Territory - Outback,2018,Females,Salary,17659
+702,Northern Territory - Outback,2019,Females,Salary,19772
+702,Northern Territory - Outback,2020,Females,Salary,19071
+801,Australian Capital Territory,2016,Males,Jobs,53
+801,Australian Capital Territory,2017,Males,Jobs,54.6
+801,Australian Capital Territory,2018,Males,Jobs,55.5
+801,Australian Capital Territory,2019,Males,Jobs,55.9
+801,Australian Capital Territory,2020,Males,Jobs,59.9
+801,Australian Capital Territory,2016,Females,Jobs,50.6
+801,Australian Capital Territory,2017,Females,Jobs,51.9
+801,Australian Capital Territory,2018,Females,Jobs,53.9
+801,Australian Capital Territory,2019,Females,Jobs,53.8
+801,Australian Capital Territory,2020,Females,Jobs,57.5
+801,Australian Capital Territory,2016,Males,Salary,39383
+801,Australian Capital Territory,2017,Males,Salary,40765
+801,Australian Capital Territory,2018,Males,Salary,41564
+801,Australian Capital Territory,2019,Males,Salary,42735
+801,Australian Capital Territory,2020,Males,Salary,43496
+801,Australian Capital Territory,2016,Females,Salary,29510
+801,Australian Capital Territory,2017,Females,Salary,30540
+801,Australian Capital Territory,2018,Females,Salary,30943
+801,Australian Capital Territory,2019,Females,Salary,33288
+801,Australian Capital Territory,2020,Females,Salary,34099
